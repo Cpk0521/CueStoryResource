@@ -8,11 +8,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "嗚呼……。",
-                "zh": "啊啊……"
+                "zh": "啊啊……",
+                "eng": "Ah……."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_001.mp3"
         },
@@ -23,11 +25,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "悪魔の血が全身に染み渡る……。",
-                "zh": "惡魔的血正浸染吾身……"
+                "zh": "惡魔的血正浸染吾身……",
+                "eng": "The blood of demons courses through my whole body……."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_002.mp3"
         },
@@ -38,11 +42,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "……我が名はエリス。\n悪魔エリス。",
-                "zh": "……吾輩名為厄里斯。\n惡魔厄里斯。"
+                "zh": "……吾輩名為厄里斯。\n惡魔厄里斯。",
+                "eng": "……I am Ellis.\nThe great demon Ellis."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_003.mp3"
         },
@@ -53,11 +59,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "……利恵？",
-                "zh": "……利惠？"
+                "zh": "……利惠？",
+                "eng": "……Rie？"
             },
             "voice": ""
         },
@@ -68,11 +76,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "なに、いたの？\nマネージャー。",
-                "zh": "什麼\n經紀人你在啊？"
+                "zh": "什麼\n經紀人你在啊？",
+                "eng": "Wh—Manager？\nHow long have you been here？"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_005.mp3"
         },
@@ -83,11 +93,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "利恵に呼ばれてきたんだけど。",
-                "zh": "是利惠妳叫我來的就是了。"
+                "zh": "是利惠妳叫我來的就是了。",
+                "eng": "You’re the one that called me here."
             },
             "voice": ""
         },
@@ -98,11 +110,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "なによ、来たなら声かけてよ。\nあ、いや、「なんだ。居たなら声をかけぬか。」",
-                "zh": "什麼嘛，來了就出個聲啦。\n啊，不是，應該是「汝既安在，何不出聲？」"
+                "zh": "什麼嘛，來了就出個聲啦。\n啊，不是，應該是「汝既安在，何不出聲？」",
+                "eng": "Well you should’ve said something as soon as you got here.\nNo, wait,“I would prefer if you announced your presence immediately upon arrival.”"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_007.mp3"
         },
@@ -113,11 +127,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "なんで言い直したの？\n時代劇みたいに。",
-                "zh": "為什麼改口？\n弄得好像時代劇一樣。"
+                "zh": "為什麼改口？\n弄得好像時代劇一樣。",
+                "eng": "Did you really have to say it twice？\nAnd why do you sound like you’re in a period drama?"
             },
             "voice": ""
         },
@@ -128,11 +144,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "時代劇？\nバカにするな。我輩はエストニアの貴族の出だぞ。",
-                "zh": "時代劇？\n別說笑了。吾輩可是出身於厄斯托尼亞的貴族世家。"
+                "zh": "時代劇？\n別說笑了。吾輩可是出身於厄斯托尼亞的貴族世家。",
+                "eng": "A period drama？\n Don’t make fun of me. I am genuine nobility. From Estonia."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_009.mp3"
         },
@@ -143,11 +161,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "埼玉でしょ。",
-                "zh": "埼玉才對吧？"
+                "zh": "埼玉才對吧？",
+                "eng": "Aren’t you from Saitama？"
             },
             "voice": ""
         },
@@ -158,11 +178,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "うるさいわね。\nで、何の用？。",
-                "zh": "你好吵啊。\n所以有什麼事？"
+                "zh": "你好吵啊。\n所以有什麼事？",
+                "eng": "Oh, shut up.\nWell, what do you want？."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_011.mp3"
         },
@@ -173,11 +195,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "こっちのセリフなんだけど。",
-                "zh": "這是我要問的就是了。"
+                "zh": "這是我要問的就是了。",
+                "eng": "Shouldn’t I be the one asking that？"
             },
             "voice": ""
         },
@@ -188,11 +212,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "仕方ないわね……。\nボイサンのことなんだけど。",
-                "zh": "真沒辦法……\n我找你是為了聲樣的事。"
+                "zh": "真沒辦法……\n我找你是為了聲樣的事。",
+                "eng": "Very well, I suppose…….\nI might have a slight concern about my voice samples."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_013.mp3"
         },
@@ -203,11 +229,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "ボイサン？\nボイスサンプル？",
-                "zh": "聲樣？\n聲音樣本？"
+                "zh": "聲樣？\n聲音樣本？",
+                "eng": "Voice samples？\nOh, for your seiyuu profile？"
             },
             "voice": ""
         },
@@ -218,11 +246,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "最初に、名乗るでしょ？\nいや、名乗るじゃろ？",
-                "zh": "最一開始不是要講名字嗎？\n不，「報上名號否？」"
+                "zh": "最一開始不是要講名字嗎？\n不，「報上名號否？」",
+                "eng": "First is introducing myself, right？\nEr, I mean, if I am not mistaken, we start by stating our name, yes？"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_015.mp3"
         },
@@ -233,11 +263,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "……名乗りまする。",
-                "zh": "……自報姓名。"
+                "zh": "……自報姓名。",
+                "eng": "……Yes, you introduce yourself."
             },
             "voice": ""
         },
@@ -248,11 +280,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "そこでじゃ、悪魔エリスと名乗ることはできんかの？",
-                "zh": "所以吾輩無法自稱是惡魔厄里斯嗎？"
+                "zh": "所以吾輩無法自稱是惡魔厄里斯嗎？",
+                "eng": "That being the case, I would like to introduce myself as the great demon Ellis. What say you?"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_017.mp3"
         },
@@ -263,11 +297,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "昔話みたいになってるけど。",
-                "zh": "妳好像之前就問過了。"
+                "zh": "妳好像之前就問過了。",
+                "eng": "It’d probably sound more like you’re telling a children’s bedtime story than a professional introduction."
             },
             "voice": ""
         },
@@ -278,11 +314,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "マネージャーが余計なことを言うからよ。",
-                "zh": "那是因為經紀人你多嘴。"
+                "zh": "那是因為經紀人你多嘴。",
+                "eng": "There’s no need to say something so insulting."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_019.mp3"
         },
@@ -293,11 +331,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "その名乗りを悪魔エリスにしたいと。",
-                "zh": "妳說想自稱惡魔厄里斯。"
+                "zh": "妳說想自稱惡魔厄里斯。",
+                "eng": "So basically…you want to introduce yourself as a demon."
             },
             "voice": ""
         },
@@ -308,11 +348,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "そうだけど……、どう思う？",
-                "zh": "是沒錯……你怎麼看？"
+                "zh": "是沒錯……你怎麼看？",
+                "eng": "Yes, I do…well？"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_021.mp3"
         },
@@ -323,11 +365,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "（無下に否定するとかえって厄介だ……。）",
-                "zh": "（隨便拒絕反而很麻煩……）"
+                "zh": "（隨便拒絕反而很麻煩……）",
+                "eng": "(It’ll be a big pain if I just reject it outright……）"
             },
             "voice": ""
         },
@@ -338,11 +382,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "素晴らしいアイデアだと思うよ！",
-                "zh": "我覺得這主意很不錯！"
+                "zh": "我覺得這主意很不錯！",
+                "eng": "That’s a wonderful idea!"
             },
             "voice": ""
         },
@@ -353,11 +399,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "えっ！？\n本当？",
-                "zh": "咦っ！？\n真的？"
+                "zh": "咦っ！？\n真的？",
+                "eng": "Huh！？\nReally？"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_024.mp3"
         },
@@ -368,11 +416,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "タブーとされる名前をあえて使うインパクトは絶大だよ。",
-                "zh": "勇敢使用被視為禁忌的名諱，衝擊力可是很大的。"
+                "zh": "勇敢使用被視為禁忌的名諱，衝擊力可是很大的。",
+                "eng": "It’ll really leave an impact if you introduce yourself with your forbidden name like that."
             },
             "voice": ""
         },
@@ -383,11 +433,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "そうね……、前から少し悩んでたけど……。\nいざ決めるとなると、余計迷うわね……。",
-                "zh": "是啊……之前就有點煩惱……\n一旦下定決心，又開始想東想西……。"
+                "zh": "是啊……之前就有點煩惱……\n一旦下定決心，又開始想東想西……。",
+                "eng": "Indeed…yes, I was hesitant before…\nbut now that you say it like that, there was never really a reason to doubt…"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_026.mp3"
         },
@@ -398,11 +450,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "しかし世を忍ぶ仮の姿を失うことにはならないかな？",
-                "zh": "可是這樣，妳用來掩人耳目的面具不就要消失了嗎？"
+                "zh": "可是這樣，妳用來掩人耳目的面具不就要消失了嗎？",
+                "eng": "However, do you really want to blow your cover in this mortal realm?"
             },
             "voice": ""
         },
@@ -413,11 +467,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "どういうこと？",
-                "zh": "什麼意思？"
+                "zh": "什麼意思？",
+                "eng": "What do you mean?"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_028.mp3"
         },
@@ -428,11 +484,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "仕事なんて、人生のほんの一部に過ぎないよ。",
-                "zh": "工作不過是人生的一個部分罷了。"
+                "zh": "工作不過是人生的一個部分罷了。",
+                "eng": "Work is but one part of your life."
             },
             "voice": ""
         },
@@ -443,11 +501,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "そこは丸山利恵にまかせておいて、\n本来の人生を、悪魔エールの名の下で謳歌したらどうでしょうか。",
-                "zh": "把它交給丸山利惠這個身分、\n在惡魔厄爾的名號下歌頌原本的人生如何？"
+                "zh": "把它交給丸山利惠這個身分、\n在惡魔厄爾的名號下歌頌原本的人生如何？",
+                "eng": "Wouldn’t it be best to leave that part to “Rie Maruyama”,\nand enjoy your private life as the demon, uh, Elle to the fullest?"
             },
             "voice": ""
         },
@@ -458,11 +518,13 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "エリスよ。\n……なるほど、確かにそうね。そのアイデア、貰い受けよう！",
-                "zh": "是厄里斯。\n……原來如此，有道理。吾輩就接受你的意見吧！"
+                "zh": "是厄里斯。\n……原來如此，有道理。吾輩就接受你的意見吧！",
+                "eng": "It’s Ellis。\n……But I see your point. Yes, I agree completely."
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_031.mp3"
         },
@@ -473,11 +535,13 @@
             ],
             "name": {
                 "default": "マネージャー",
-                "zh": "經紀人"
+                "zh": "經紀人",
+                "eng": "マネージャー"
             },
             "message": {
                 "default": "（ほっ。\n世話の焼ける。）",
-                "zh": "（呼。\n真是給人添麻煩。）"
+                "zh": "（呼。\n真是給人添麻煩。）",
+                "eng": "（Phew.\nWhat a handful.）"
             },
             "voice": ""
         },
@@ -488,19 +552,23 @@
             ],
             "name": {
                 "default": "丸山利恵",
-                "zh": "丸山利惠"
+                "zh": "丸山利惠",
+                "eng": "丸山利恵"
             },
             "message": {
                 "default": "（コホン）丸山利恵です♪　",
-                "zh": "（咳咳）我是丸山利惠♪　"
+                "zh": "（咳咳）我是丸山利惠♪　",
+                "eng": "（Ahem）I’m Rie Maruyama ♪　"
             },
             "voice": "card/Card_13/Card_1130001_1/card_1130001_1_033.mp3"
         }
     ],
     "Language": [
-        "zh"
+        "zh",
+        "eng"
     ],
     "Translator": {
-        "zh": "Naztar"
+        "zh": "Naztar",
+        "eng": "Pris"
     }
 }
