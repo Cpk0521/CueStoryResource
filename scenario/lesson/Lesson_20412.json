@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Lesson_20412",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 14,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 32,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 35,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 40,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 43,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 46,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -159,6 +183,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 50,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -172,6 +198,8 @@
         },
         {
             "index": 14,
+            "scenarioIndex": 55,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -185,6 +213,8 @@
         },
         {
             "index": 15,
+            "scenarioIndex": 58,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -198,6 +228,8 @@
         },
         {
             "index": 16,
+            "scenarioIndex": 62,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -209,5 +241,7 @@
             },
             "voice": "lesson/Lesson_20412/lesson_20412_016.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

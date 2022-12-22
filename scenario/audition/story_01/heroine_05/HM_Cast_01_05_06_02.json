@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Cast_01_05_06_02",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 14,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 22,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 33,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 37,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 40,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 44,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 48,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 51,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 56,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -159,6 +183,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 61,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -172,6 +198,8 @@
         },
         {
             "index": 14,
+            "scenarioIndex": 64,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -185,6 +213,8 @@
         },
         {
             "index": 15,
+            "scenarioIndex": 71,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -196,5 +226,7 @@
             },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_02/hm_cast_01_05_06_02_015.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

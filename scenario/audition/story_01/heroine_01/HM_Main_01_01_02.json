@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Main_01_01_02",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 30,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 38,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 40,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 43,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 45,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 48,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -159,6 +183,24 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 49,
+            "Type": 2,
+            "selectParams": [
+                {
+                    "default": "舞花に相談してみたら？"
+                },
+                {
+                    "default": "志穂に相談してみたら？　"
+                },
+                {
+                    "default": "ほのかに相談してみたら？"
+                }
+            ]
+        },
+        {
+            "index": 14,
+            "scenarioIndex": 54,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -171,7 +213,9 @@
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_014.mp3"
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 61,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -184,7 +228,9 @@
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_016.mp3"
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 69,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -196,5 +242,7 @@
             },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_018.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

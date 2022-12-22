@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Lesson_31308",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 9,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 14,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 39,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 46,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 51,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 56,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 61,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 65,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -131,5 +151,7 @@
             },
             "voice": "lesson/Lesson_31308/lesson_31308_010.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

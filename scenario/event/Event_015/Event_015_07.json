@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Event_015_07",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 20,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 32,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 41,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 43,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 53,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 57,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 60,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -159,6 +183,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 68,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -172,6 +198,8 @@
         },
         {
             "index": 14,
+            "scenarioIndex": 79,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -185,6 +213,8 @@
         },
         {
             "index": 15,
+            "scenarioIndex": 84,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -198,6 +228,8 @@
         },
         {
             "index": 16,
+            "scenarioIndex": 86,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -209,5 +241,7 @@
             },
             "voice": "event/Event_015/Event_015_07/event_015_07_018.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Cast_01_05_08_04",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 9,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 10,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 19,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 30,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -131,5 +151,7 @@
             },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_04/hm_cast_01_05_08_04_010.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

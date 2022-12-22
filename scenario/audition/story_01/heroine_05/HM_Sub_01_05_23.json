@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Sub_01_05_23",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 10,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 19,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 25,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -79,5 +91,7 @@
             },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_23/hm_sub_01_05_23_005.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

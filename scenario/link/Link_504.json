@@ -1,13 +1,13 @@
 {
     "Txt_Name": "Link_504",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 13,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "お疲れ様。"
@@ -16,11 +16,11 @@
         },
         {
             "index": 2,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 16,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "お疲れ。"
@@ -29,11 +29,11 @@
         },
         {
             "index": 3,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 19,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "鳴も呼ばれたの？"
@@ -42,11 +42,11 @@
         },
         {
             "index": 4,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 21,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "うん。"
@@ -55,11 +55,11 @@
         },
         {
             "index": 5,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 24,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "そっか。私も。"
@@ -68,11 +68,11 @@
         },
         {
             "index": 6,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 26,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "そう。"
@@ -81,11 +81,11 @@
         },
         {
             "index": 7,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 35,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "あ……。"
@@ -94,11 +94,11 @@
         },
         {
             "index": 8,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 37,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "……。"
@@ -107,11 +107,11 @@
         },
         {
             "index": 9,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 42,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "用事。どれくらいで終わるかな？"
@@ -120,11 +120,11 @@
         },
         {
             "index": 10,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 44,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "用件次第。"
@@ -133,11 +133,11 @@
         },
         {
             "index": 11,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 46,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "そうだよね。"
@@ -146,11 +146,11 @@
         },
         {
             "index": 12,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 49,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "どうしたの？"
@@ -159,11 +159,11 @@
         },
         {
             "index": 13,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 52,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "美晴から。\n終わったらみんなで買い物行こうって。"
@@ -172,11 +172,11 @@
         },
         {
             "index": 14,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 55,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "そう。"
@@ -185,11 +185,11 @@
         },
         {
             "index": 15,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 58,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "鳴はなにか予定ある？"
@@ -198,11 +198,11 @@
         },
         {
             "index": 16,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 60,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "帰るよ。"
@@ -211,11 +211,11 @@
         },
         {
             "index": 17,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 62,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "そう。"
@@ -224,11 +224,11 @@
         },
         {
             "index": 18,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 70,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "あ。"
@@ -237,11 +237,11 @@
         },
         {
             "index": 19,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 73,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "傘……。\nどうしよう……。"
@@ -250,11 +250,11 @@
         },
         {
             "index": 20,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 76,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "忘れた？"
@@ -263,11 +263,11 @@
         },
         {
             "index": 21,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 80,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "うん。\n夜、降るのに……。"
@@ -276,11 +276,11 @@
         },
         {
             "index": 22,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 84,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "そうだね。"
@@ -289,11 +289,11 @@
         },
         {
             "index": 23,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 86,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "鳴は？"
@@ -302,11 +302,11 @@
         },
         {
             "index": 24,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 88,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "持ってきたよ。"
@@ -315,11 +315,11 @@
         },
         {
             "index": 25,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 92,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "そう……。"
@@ -328,11 +328,11 @@
         },
         {
             "index": 26,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 95,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "大丈夫。"
@@ -341,11 +341,11 @@
         },
         {
             "index": 27,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 98,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "え？"
@@ -354,11 +354,11 @@
         },
         {
             "index": 28,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 100,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "降るの遅い時間だから。"
@@ -367,11 +367,11 @@
         },
         {
             "index": 29,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 103,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "うん。\nでも、このあと……。"
@@ -380,11 +380,11 @@
         },
         {
             "index": 30,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 105,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "そうだね。"
@@ -393,11 +393,11 @@
         },
         {
             "index": 31,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 109,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "事務所に余ってないかな……。"
@@ -406,11 +406,11 @@
         },
         {
             "index": 32,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 115,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "……。"
@@ -419,11 +419,11 @@
         },
         {
             "index": 33,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 118,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "……。"
@@ -432,11 +432,11 @@
         },
         {
             "index": 34,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 125,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "どうしたの？"
@@ -445,11 +445,11 @@
         },
         {
             "index": 35,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 128,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "利恵から。"
@@ -458,11 +458,11 @@
         },
         {
             "index": 36,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 131,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "そう。"
@@ -471,11 +471,11 @@
         },
         {
             "index": 37,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 136,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "傘。使う？"
@@ -484,11 +484,11 @@
         },
         {
             "index": 38,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 140,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "え……、助かるけど。\n鳴は？"
@@ -497,11 +497,11 @@
         },
         {
             "index": 39,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 143,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "必要なくなったから。"
@@ -510,11 +510,11 @@
         },
         {
             "index": 40,
-            "heroineId": [
-                10
-            ],
+            "scenarioIndex": 146,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "神室絢"
+                "default": "0人"
             },
             "message": {
                 "default": "そう。\nありがとう。"
@@ -523,16 +523,18 @@
         },
         {
             "index": 41,
-            "heroineId": [
-                16
-            ],
+            "scenarioIndex": 148,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "遠見鳴"
+                "default": "0人"
             },
             "message": {
                 "default": "うん。"
             },
             "voice": "link/Link_504/link_504_041.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

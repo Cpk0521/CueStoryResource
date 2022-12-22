@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Ending_01_09_01",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 5,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 9,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -25,10 +29,12 @@
             "message": {
                 "default": "わたしが合格……。うふふ、ありがとうございます。"
             },
-            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
+            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_002_g.mp3"
         },
         {
             "index": 3,
+            "scenarioIndex": 10,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 14,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -51,10 +59,12 @@
             "message": {
                 "default": "……じゃあ、マネージャーさん。\n1つお願いしていいですか？"
             },
-            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
+            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_004_g.mp3"
         },
         {
             "index": 5,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -77,10 +89,12 @@
             "message": {
                 "default": "うふふ。じゃあ、わたしを褒めてもらえますか。"
             },
-            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
+            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_006_g.mp3"
         },
         {
             "index": 7,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -103,10 +119,12 @@
             "message": {
                 "default": "はい。そんなことでいいんです。"
             },
-            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
+            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_008_g.mp3"
         },
         {
             "index": 9,
+            "scenarioIndex": 31,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 36,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -129,10 +149,12 @@
             "message": {
                 "default": "うふふ、ありがとうございます。\nマネージャーさん。"
             },
-            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
+            "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_010_g.mp3"
         },
         {
             "index": 11,
+            "scenarioIndex": 45,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 46,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -159,6 +183,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 49,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -172,6 +198,8 @@
         },
         {
             "index": 14,
+            "scenarioIndex": 54,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -185,6 +213,8 @@
         },
         {
             "index": 15,
+            "scenarioIndex": 56,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -198,6 +228,8 @@
         },
         {
             "index": 16,
+            "scenarioIndex": 64,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -211,6 +243,8 @@
         },
         {
             "index": 17,
+            "scenarioIndex": 68,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -224,6 +258,8 @@
         },
         {
             "index": 18,
+            "scenarioIndex": 75,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -237,6 +273,8 @@
         },
         {
             "index": 19,
+            "scenarioIndex": 81,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -250,6 +288,8 @@
         },
         {
             "index": 20,
+            "scenarioIndex": 84,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -263,6 +303,8 @@
         },
         {
             "index": 21,
+            "scenarioIndex": 88,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -276,6 +318,8 @@
         },
         {
             "index": 22,
+            "scenarioIndex": 97,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -289,6 +333,8 @@
         },
         {
             "index": 23,
+            "scenarioIndex": 99,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -302,6 +348,8 @@
         },
         {
             "index": 24,
+            "scenarioIndex": 105,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -315,6 +363,8 @@
         },
         {
             "index": 25,
+            "scenarioIndex": 112,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -328,6 +378,8 @@
         },
         {
             "index": 26,
+            "scenarioIndex": 117,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -341,6 +393,8 @@
         },
         {
             "index": 27,
+            "scenarioIndex": 119,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -354,6 +408,8 @@
         },
         {
             "index": 28,
+            "scenarioIndex": 124,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -367,6 +423,8 @@
         },
         {
             "index": 29,
+            "scenarioIndex": 129,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -380,6 +438,8 @@
         },
         {
             "index": 30,
+            "scenarioIndex": 131,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -393,6 +453,8 @@
         },
         {
             "index": 31,
+            "scenarioIndex": 136,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -406,6 +468,8 @@
         },
         {
             "index": 32,
+            "scenarioIndex": 138,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -419,6 +483,8 @@
         },
         {
             "index": 33,
+            "scenarioIndex": 141,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -430,5 +496,7 @@
             },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_023.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

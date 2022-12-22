@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Cast_01_16_14_02",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 19,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 30,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 32,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -118,5 +136,7 @@
             },
             "voice": "audition/story_01/heroine_16/HM_Cast_01_16_14_02/hm_cast_01_16_14_02_009.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

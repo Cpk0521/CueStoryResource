@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Main_01_13_02",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 32,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 39,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 43,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 45,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 48,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 52,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -159,6 +183,24 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 53,
+            "Type": 2,
+            "selectParams": [
+                {
+                    "default": "監督の作品リスト、渡そうか"
+                },
+                {
+                    "default": "寮に原作が置いてあったよ"
+                },
+                {
+                    "default": "SFに詳しい人に聞くとか"
+                }
+            ]
+        },
+        {
+            "index": 14,
+            "scenarioIndex": 60,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -171,7 +213,9 @@
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_02/hm_main_01_13_02_014.mp3"
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 69,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -184,7 +228,9 @@
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_02/hm_main_01_13_02_016.mp3"
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 75,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -196,5 +242,7 @@
             },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_02/hm_main_01_13_02_018.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

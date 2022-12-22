@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Com_01_07_03",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 36,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 40,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 50,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 57,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 69,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 74,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 88,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -131,5 +151,7 @@
             },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_010.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

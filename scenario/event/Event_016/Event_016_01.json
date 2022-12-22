@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Event_016_01",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 20,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 32,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 35,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 53,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 59,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 63,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 71,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 75,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 79,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -159,6 +183,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 87,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -170,5 +196,7 @@
             },
             "voice": "event/Event_016/Event_016_01/event_016_01_013.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

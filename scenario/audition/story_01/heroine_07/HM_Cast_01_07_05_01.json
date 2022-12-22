@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Cast_01_07_05_01",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 10,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 19,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -105,5 +121,7 @@
             },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_01/hm_cast_01_07_05_01_008.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

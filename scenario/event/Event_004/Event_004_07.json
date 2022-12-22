@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Event_004_07",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 16,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 30,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 33,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 36,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 39,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 42,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 45,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 63,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 67,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 69,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -159,6 +183,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 81,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -172,6 +198,8 @@
         },
         {
             "index": 14,
+            "scenarioIndex": 93,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -185,6 +213,8 @@
         },
         {
             "index": 15,
+            "scenarioIndex": 109,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -198,6 +228,8 @@
         },
         {
             "index": 16,
+            "scenarioIndex": 111,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -211,6 +243,8 @@
         },
         {
             "index": 17,
+            "scenarioIndex": 114,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -224,6 +258,8 @@
         },
         {
             "index": 18,
+            "scenarioIndex": 123,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -237,6 +273,8 @@
         },
         {
             "index": 19,
+            "scenarioIndex": 128,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -250,6 +288,8 @@
         },
         {
             "index": 20,
+            "scenarioIndex": 143,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -263,6 +303,8 @@
         },
         {
             "index": 21,
+            "scenarioIndex": 151,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -276,6 +318,8 @@
         },
         {
             "index": 22,
+            "scenarioIndex": 167,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -289,6 +333,8 @@
         },
         {
             "index": 23,
+            "scenarioIndex": 169,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -302,6 +348,8 @@
         },
         {
             "index": 24,
+            "scenarioIndex": 174,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -315,6 +363,8 @@
         },
         {
             "index": 25,
+            "scenarioIndex": 184,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -328,6 +378,8 @@
         },
         {
             "index": 26,
+            "scenarioIndex": 195,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -341,6 +393,8 @@
         },
         {
             "index": 27,
+            "scenarioIndex": 214,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -354,6 +408,8 @@
         },
         {
             "index": 28,
+            "scenarioIndex": 222,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -367,6 +423,8 @@
         },
         {
             "index": 29,
+            "scenarioIndex": 240,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -380,6 +438,8 @@
         },
         {
             "index": 30,
+            "scenarioIndex": 246,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -393,6 +453,8 @@
         },
         {
             "index": 31,
+            "scenarioIndex": 257,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -406,6 +468,8 @@
         },
         {
             "index": 32,
+            "scenarioIndex": 272,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -419,6 +483,8 @@
         },
         {
             "index": 33,
+            "scenarioIndex": 275,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -432,6 +498,8 @@
         },
         {
             "index": 34,
+            "scenarioIndex": 285,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -445,6 +513,8 @@
         },
         {
             "index": 35,
+            "scenarioIndex": 302,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -458,6 +528,8 @@
         },
         {
             "index": 36,
+            "scenarioIndex": 304,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -471,6 +543,8 @@
         },
         {
             "index": 37,
+            "scenarioIndex": 310,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -484,6 +558,8 @@
         },
         {
             "index": 38,
+            "scenarioIndex": 316,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -497,6 +573,8 @@
         },
         {
             "index": 39,
+            "scenarioIndex": 324,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -510,6 +588,8 @@
         },
         {
             "index": 40,
+            "scenarioIndex": 325,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -523,6 +603,8 @@
         },
         {
             "index": 41,
+            "scenarioIndex": 329,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -536,6 +618,8 @@
         },
         {
             "index": 42,
+            "scenarioIndex": 332,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -549,6 +633,8 @@
         },
         {
             "index": 43,
+            "scenarioIndex": 344,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -562,6 +648,8 @@
         },
         {
             "index": 44,
+            "scenarioIndex": 345,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -575,6 +663,8 @@
         },
         {
             "index": 45,
+            "scenarioIndex": 346,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -588,6 +678,8 @@
         },
         {
             "index": 46,
+            "scenarioIndex": 351,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -601,6 +693,8 @@
         },
         {
             "index": 47,
+            "scenarioIndex": 359,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -614,6 +708,8 @@
         },
         {
             "index": 48,
+            "scenarioIndex": 363,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -627,6 +723,8 @@
         },
         {
             "index": 49,
+            "scenarioIndex": 366,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -640,6 +738,8 @@
         },
         {
             "index": 50,
+            "scenarioIndex": 373,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -653,6 +753,8 @@
         },
         {
             "index": 51,
+            "scenarioIndex": 379,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -666,6 +768,8 @@
         },
         {
             "index": 52,
+            "scenarioIndex": 386,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -679,6 +783,8 @@
         },
         {
             "index": 53,
+            "scenarioIndex": 396,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -690,5 +796,7 @@
             },
             "voice": "event/Event_004/Event_004_07/event_004_07_053.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

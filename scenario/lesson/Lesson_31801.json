@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Lesson_31801",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 16,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 20,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 22,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 31,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 32,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -157,5 +181,7 @@
             },
             "voice": "lesson/Lesson_31801/lesson_31801_012.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

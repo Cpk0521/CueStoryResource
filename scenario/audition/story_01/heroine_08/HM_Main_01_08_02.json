@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Main_01_08_02",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 9,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 10,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 14,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 20,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,24 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 25,
+            "Type": 2,
+            "selectParams": [
+                {
+                    "default": "大切な仲間がいるもんね"
+                },
+                {
+                    "default": "度胸があるよね"
+                },
+                {
+                    "default": "結構、じゃじゃ馬だよね"
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -132,7 +168,9 @@
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_02/hm_main_01_08_02_012.mp3"
         },
         {
-            "index": 11,
+            "index": 12,
+            "scenarioIndex": 30,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -145,7 +183,9 @@
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_02/hm_main_01_08_02_013.mp3"
         },
         {
-            "index": 12,
+            "index": 13,
+            "scenarioIndex": 35,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -158,7 +198,9 @@
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_02/hm_main_01_08_02_015.mp3"
         },
         {
-            "index": 13,
+            "index": 14,
+            "scenarioIndex": 37,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -171,7 +213,9 @@
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_02/hm_main_01_08_02_016.mp3"
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 41,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -184,7 +228,9 @@
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_02/hm_main_01_08_02_018.mp3"
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 43,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -196,5 +242,7 @@
             },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_02/hm_main_01_08_02_019.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

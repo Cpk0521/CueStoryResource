@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Lesson_31610",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 28,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 36,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 46,
+            "Type": 0,
             "heroineId": [
                 8
             ],
@@ -105,5 +121,7 @@
             },
             "voice": "lesson/Lesson_31610/lesson_31610_008.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

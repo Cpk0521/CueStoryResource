@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Cast_01_05_07_01",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 9,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 20,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 22,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 25,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 31,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 36,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 39,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 41,
+            "Type": 0,
             "heroineId": [
                 7
             ],
@@ -144,5 +166,7 @@
             },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_011.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

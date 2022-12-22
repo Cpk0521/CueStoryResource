@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Card_2150002_1",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 103
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 14,
+            "Type": 0,
             "heroineId": [
                 103
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 35,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 37,
+            "Type": 0,
             "heroineId": [
                 103
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 40,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 42,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 47,
+            "Type": 0,
             "heroineId": [
                 103
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 63,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 68,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 71,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 75,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 77,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -159,6 +183,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 79,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -172,6 +198,8 @@
         },
         {
             "index": 14,
+            "scenarioIndex": 89,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -185,6 +213,8 @@
         },
         {
             "index": 15,
+            "scenarioIndex": 91,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -198,6 +228,8 @@
         },
         {
             "index": 16,
+            "scenarioIndex": 95,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -211,6 +243,8 @@
         },
         {
             "index": 17,
+            "scenarioIndex": 102,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -224,6 +258,8 @@
         },
         {
             "index": 18,
+            "scenarioIndex": 107,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -237,6 +273,8 @@
         },
         {
             "index": 19,
+            "scenarioIndex": 110,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -250,6 +288,8 @@
         },
         {
             "index": 20,
+            "scenarioIndex": 115,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -259,10 +299,12 @@
             "message": {
                 "default": "さて、悪い女はブラックコーヒーでも飲もうかな。"
             },
-            "voice": "card/Card_15/Card_2150002_1/card_2150002_1_000.mp3"
+            "voice": "card/Card_15/Card_2150002_1/card_2150002_1_020_1.mp3"
         },
         {
             "index": 21,
+            "scenarioIndex": 120,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -272,10 +314,12 @@
             "message": {
                 "default": "……にっが！　\nみんなこんなの飲んでるの！？"
             },
-            "voice": "card/Card_15/Card_2150002_1/card_2150002_1_000.mp3"
+            "voice": "card/Card_15/Card_2150002_1/card_2150002_1_020_2.mp3"
         },
         {
             "index": 22,
+            "scenarioIndex": 123,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -289,6 +333,8 @@
         },
         {
             "index": 23,
+            "scenarioIndex": 130,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -302,6 +348,8 @@
         },
         {
             "index": 24,
+            "scenarioIndex": 132,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -315,6 +363,8 @@
         },
         {
             "index": 25,
+            "scenarioIndex": 139,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -328,6 +378,8 @@
         },
         {
             "index": 26,
+            "scenarioIndex": 141,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -341,6 +393,8 @@
         },
         {
             "index": 27,
+            "scenarioIndex": 146,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -354,6 +408,8 @@
         },
         {
             "index": 28,
+            "scenarioIndex": 151,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -367,6 +423,8 @@
         },
         {
             "index": 29,
+            "scenarioIndex": 155,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -380,6 +438,8 @@
         },
         {
             "index": 30,
+            "scenarioIndex": 158,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -393,6 +453,8 @@
         },
         {
             "index": 31,
+            "scenarioIndex": 160,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -404,5 +466,7 @@
             },
             "voice": "card/Card_15/Card_2150002_1/card_2150002_1_030.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

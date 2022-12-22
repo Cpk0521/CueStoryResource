@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Com_01_14_01",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 19,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 28,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 44,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 50,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 59,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 65,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 71,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -131,5 +151,7 @@
             },
             "voice": "audition/story_01/com/HM_Com_01_14_01/hm_com_01_14_01_010.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

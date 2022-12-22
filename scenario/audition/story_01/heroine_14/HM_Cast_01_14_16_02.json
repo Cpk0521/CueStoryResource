@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Cast_01_14_16_02",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -25,10 +29,12 @@
             "message": {
                 "default": "あら？　鳴。利恵は？"
             },
-            "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_02/hm_cast_01_14_16_02_000.mp3"
+            "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_02/hm_cast_01_14_16_02_001_1.mp3"
         },
         {
             "index": 3,
+            "scenarioIndex": 21,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 28,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 32,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -118,5 +136,7 @@
             },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_02/hm_cast_01_14_16_02_008.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

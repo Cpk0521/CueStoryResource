@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Card_4110009_2",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 8,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 20,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 28,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -55,6 +63,16 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 40,
+            "Type": 1,
+            "message": {
+                "default": "― まほろ・中学生 ―"
+            }
+        },
+        {
+            "index": 6,
+            "scenarioIndex": 42,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -67,7 +85,9 @@
             "voice": ""
         },
         {
-            "index": 6,
+            "index": 7,
+            "scenarioIndex": 43,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -80,7 +100,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_006.mp3"
         },
         {
-            "index": 7,
+            "index": 8,
+            "scenarioIndex": 44,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -93,7 +115,9 @@
             "voice": ""
         },
         {
-            "index": 8,
+            "index": 9,
+            "scenarioIndex": 45,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -106,7 +130,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_008.mp3"
         },
         {
-            "index": 9,
+            "index": 10,
+            "scenarioIndex": 46,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -119,7 +145,9 @@
             "voice": ""
         },
         {
-            "index": 10,
+            "index": 11,
+            "scenarioIndex": 47,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -132,7 +160,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_010.mp3"
         },
         {
-            "index": 11,
+            "index": 12,
+            "scenarioIndex": 48,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -145,7 +175,9 @@
             "voice": ""
         },
         {
-            "index": 12,
+            "index": 13,
+            "scenarioIndex": 49,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -158,7 +190,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_012.mp3"
         },
         {
-            "index": 13,
+            "index": 14,
+            "scenarioIndex": 50,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -171,7 +205,9 @@
             "voice": ""
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 51,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -184,7 +220,9 @@
             "voice": ""
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 52,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -197,7 +235,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_015.mp3"
         },
         {
-            "index": 16,
+            "index": 17,
+            "scenarioIndex": 53,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -210,7 +250,9 @@
             "voice": ""
         },
         {
-            "index": 17,
+            "index": 18,
+            "scenarioIndex": 54,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -223,7 +265,9 @@
             "voice": ""
         },
         {
-            "index": 18,
+            "index": 19,
+            "scenarioIndex": 55,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -236,7 +280,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_018.mp3"
         },
         {
-            "index": 19,
+            "index": 20,
+            "scenarioIndex": 56,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -249,7 +295,9 @@
             "voice": ""
         },
         {
-            "index": 20,
+            "index": 21,
+            "scenarioIndex": 57,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -262,7 +310,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_020.mp3"
         },
         {
-            "index": 21,
+            "index": 22,
+            "scenarioIndex": 58,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -275,7 +325,9 @@
             "voice": ""
         },
         {
-            "index": 22,
+            "index": 23,
+            "scenarioIndex": 59,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -288,7 +340,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_022.mp3"
         },
         {
-            "index": 23,
+            "index": 24,
+            "scenarioIndex": 60,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -301,7 +355,9 @@
             "voice": ""
         },
         {
-            "index": 24,
+            "index": 25,
+            "scenarioIndex": 61,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -314,7 +370,17 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_024.mp3"
         },
         {
-            "index": 25,
+            "index": 26,
+            "scenarioIndex": 73,
+            "Type": 1,
+            "message": {
+                "default": "― まほろ・高校生 ―"
+            }
+        },
+        {
+            "index": 27,
+            "scenarioIndex": 80,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -327,7 +393,9 @@
             "voice": ""
         },
         {
-            "index": 26,
+            "index": 28,
+            "scenarioIndex": 83,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -340,7 +408,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_026.mp3"
         },
         {
-            "index": 27,
+            "index": 29,
+            "scenarioIndex": 88,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -353,7 +423,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_027.mp3"
         },
         {
-            "index": 28,
+            "index": 30,
+            "scenarioIndex": 90,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -366,7 +438,9 @@
             "voice": ""
         },
         {
-            "index": 29,
+            "index": 31,
+            "scenarioIndex": 94,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -379,7 +453,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_029.mp3"
         },
         {
-            "index": 30,
+            "index": 32,
+            "scenarioIndex": 98,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -392,7 +468,9 @@
             "voice": ""
         },
         {
-            "index": 31,
+            "index": 33,
+            "scenarioIndex": 101,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -405,7 +483,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_031.mp3"
         },
         {
-            "index": 32,
+            "index": 34,
+            "scenarioIndex": 105,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -418,7 +498,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_032.mp3"
         },
         {
-            "index": 33,
+            "index": 35,
+            "scenarioIndex": 108,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -431,7 +513,9 @@
             "voice": ""
         },
         {
-            "index": 34,
+            "index": 36,
+            "scenarioIndex": 112,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -444,7 +528,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_034.mp3"
         },
         {
-            "index": 35,
+            "index": 37,
+            "scenarioIndex": 114,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -457,7 +543,9 @@
             "voice": ""
         },
         {
-            "index": 36,
+            "index": 38,
+            "scenarioIndex": 118,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -470,7 +558,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_036.mp3"
         },
         {
-            "index": 37,
+            "index": 39,
+            "scenarioIndex": 120,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -483,7 +573,9 @@
             "voice": ""
         },
         {
-            "index": 38,
+            "index": 40,
+            "scenarioIndex": 124,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -496,7 +588,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_038.mp3"
         },
         {
-            "index": 39,
+            "index": 41,
+            "scenarioIndex": 125,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -509,7 +603,9 @@
             "voice": ""
         },
         {
-            "index": 40,
+            "index": 42,
+            "scenarioIndex": 144,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -522,7 +618,9 @@
             "voice": ""
         },
         {
-            "index": 41,
+            "index": 43,
+            "scenarioIndex": 146,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -535,7 +633,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_041.mp3"
         },
         {
-            "index": 42,
+            "index": 44,
+            "scenarioIndex": 150,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -548,7 +648,9 @@
             "voice": ""
         },
         {
-            "index": 43,
+            "index": 45,
+            "scenarioIndex": 154,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -561,7 +663,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_043.mp3"
         },
         {
-            "index": 44,
+            "index": 46,
+            "scenarioIndex": 158,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -574,7 +678,9 @@
             "voice": ""
         },
         {
-            "index": 45,
+            "index": 47,
+            "scenarioIndex": 162,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -587,7 +693,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_045.mp3"
         },
         {
-            "index": 46,
+            "index": 48,
+            "scenarioIndex": 165,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -600,7 +708,9 @@
             "voice": ""
         },
         {
-            "index": 47,
+            "index": 49,
+            "scenarioIndex": 168,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -613,7 +723,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_047.mp3"
         },
         {
-            "index": 48,
+            "index": 50,
+            "scenarioIndex": 170,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -626,7 +738,9 @@
             "voice": ""
         },
         {
-            "index": 49,
+            "index": 51,
+            "scenarioIndex": 173,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -639,7 +753,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_049.mp3"
         },
         {
-            "index": 50,
+            "index": 52,
+            "scenarioIndex": 175,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -652,7 +768,9 @@
             "voice": ""
         },
         {
-            "index": 51,
+            "index": 53,
+            "scenarioIndex": 177,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -665,7 +783,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_051.mp3"
         },
         {
-            "index": 52,
+            "index": 54,
+            "scenarioIndex": 180,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -678,7 +798,9 @@
             "voice": ""
         },
         {
-            "index": 53,
+            "index": 55,
+            "scenarioIndex": 183,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -691,7 +813,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_053.mp3"
         },
         {
-            "index": 54,
+            "index": 56,
+            "scenarioIndex": 185,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -704,7 +828,9 @@
             "voice": ""
         },
         {
-            "index": 55,
+            "index": 57,
+            "scenarioIndex": 188,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -717,7 +843,9 @@
             "voice": ""
         },
         {
-            "index": 56,
+            "index": 58,
+            "scenarioIndex": 192,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -730,7 +858,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_056.mp3"
         },
         {
-            "index": 57,
+            "index": 59,
+            "scenarioIndex": 195,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -743,7 +873,9 @@
             "voice": ""
         },
         {
-            "index": 58,
+            "index": 60,
+            "scenarioIndex": 199,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -756,7 +888,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_058.mp3"
         },
         {
-            "index": 59,
+            "index": 61,
+            "scenarioIndex": 201,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -769,7 +903,9 @@
             "voice": ""
         },
         {
-            "index": 60,
+            "index": 62,
+            "scenarioIndex": 204,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -782,7 +918,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_060.mp3"
         },
         {
-            "index": 61,
+            "index": 63,
+            "scenarioIndex": 206,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -795,7 +933,9 @@
             "voice": ""
         },
         {
-            "index": 62,
+            "index": 64,
+            "scenarioIndex": 207,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -808,7 +948,9 @@
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_062.mp3"
         },
         {
-            "index": 63,
+            "index": 65,
+            "scenarioIndex": 210,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -821,7 +963,9 @@
             "voice": ""
         },
         {
-            "index": 64,
+            "index": 66,
+            "scenarioIndex": 212,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -833,5 +977,7 @@
             },
             "voice": "card/Card_11/Card_4110009_2/card_4110009_2_064.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

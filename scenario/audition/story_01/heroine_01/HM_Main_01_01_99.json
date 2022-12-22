@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Main_01_01_99",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,24 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 13,
+            "Type": 2,
+            "selectParams": [
+                {
+                    "default": "悠希"
+                },
+                {
+                    "default": "美晴"
+                },
+                {
+                    "default": "利恵"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 5
             ],
@@ -41,7 +63,9 @@
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_99/hm_main_01_01_99_002.mp3"
         },
         {
-            "index": 4,
+            "index": 5,
+            "scenarioIndex": 30,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -54,7 +78,9 @@
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_99/hm_main_01_01_99_003.mp3"
         },
         {
-            "index": 5,
+            "index": 6,
+            "scenarioIndex": 40,
+            "Type": 0,
             "heroineId": [
                 13
             ],
@@ -66,5 +92,7 @@
             },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_99/hm_main_01_01_99_004.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

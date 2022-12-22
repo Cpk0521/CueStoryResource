@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Main_01_01_90",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 10,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,18 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 12,
+            "Type": 2,
+            "selectParams": [
+                {
+                    "default": "1"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "scenarioIndex": 16,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -40,5 +56,7 @@
             },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_90/hm_main_01_01_90_002.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

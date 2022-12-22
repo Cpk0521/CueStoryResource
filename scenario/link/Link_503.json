@@ -1,13 +1,13 @@
 {
     "Txt_Name": "Link_503",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 9,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "……うまい。"
@@ -16,11 +16,11 @@
         },
         {
             "index": 2,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 12,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "濃厚なチョコレートのあとに広がる、\nクッキーの香ばしさと、サクサクとした食感。"
@@ -29,11 +29,11 @@
         },
         {
             "index": 3,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 16,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "椎茸の山こそ至高。\nチョコレート菓子の頂点なり。"
@@ -42,11 +42,11 @@
         },
         {
             "index": 4,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 19,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "完璧な朝だな。"
@@ -55,11 +55,11 @@
         },
         {
             "index": 5,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 27,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "おはよう。なに？\n朝からお菓子？"
@@ -68,11 +68,11 @@
         },
         {
             "index": 6,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 31,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "人の勝手だろ。"
@@ -81,11 +81,11 @@
         },
         {
             "index": 7,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 33,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "まあ、そうだけど……。"
@@ -94,11 +94,11 @@
         },
         {
             "index": 8,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 37,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "聡里も食べるか？"
@@ -107,11 +107,11 @@
         },
         {
             "index": 9,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 41,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "ううん、大丈夫。\n朝にお菓子は食べないわ。"
@@ -120,11 +120,11 @@
         },
         {
             "index": 10,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 45,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "それに私、破竹の里派なの。"
@@ -133,11 +133,11 @@
         },
         {
             "index": 11,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 47,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "ほう。"
@@ -146,11 +146,11 @@
         },
         {
             "index": 12,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 66,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "……。\nあ、そっちにあるソース取ってくれる？"
@@ -159,11 +159,11 @@
         },
         {
             "index": 13,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 70,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "ほれ。"
@@ -172,11 +172,11 @@
         },
         {
             "index": 14,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 74,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "ありがとう。"
@@ -185,11 +185,11 @@
         },
         {
             "index": 15,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 77,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "む、待て。"
@@ -198,11 +198,11 @@
         },
         {
             "index": 16,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 80,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "え、なに？"
@@ -211,11 +211,11 @@
         },
         {
             "index": 17,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 83,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "目玉焼きにソースをかけるのか？"
@@ -224,11 +224,11 @@
         },
         {
             "index": 18,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 87,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "そうだけど。"
@@ -237,11 +237,11 @@
         },
         {
             "index": 19,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 91,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "目玉焼きには醤油だろ。"
@@ -250,11 +250,11 @@
         },
         {
             "index": 20,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 93,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "それこそ、人の勝手じゃないかしら。"
@@ -263,11 +263,11 @@
         },
         {
             "index": 21,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 96,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "……それもそうだな。"
@@ -276,11 +276,11 @@
         },
         {
             "index": 22,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 112,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "……聡里とは、つくづく合わないな。"
@@ -289,11 +289,11 @@
         },
         {
             "index": 23,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 114,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "合わなくても困らないし、別にいいんじゃない。"
@@ -302,11 +302,11 @@
         },
         {
             "index": 24,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 117,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "……遊びに行くなら海か山か。"
@@ -315,11 +315,11 @@
         },
         {
             "index": 25,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 119,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "え？"
@@ -328,11 +328,11 @@
         },
         {
             "index": 26,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 122,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "私は海だ。"
@@ -341,11 +341,11 @@
         },
         {
             "index": 27,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 125,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "……まぁ、山かな。"
@@ -354,11 +354,11 @@
         },
         {
             "index": 28,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 130,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "ふむ……、カレーの好みは？"
@@ -367,11 +367,11 @@
         },
         {
             "index": 29,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 134,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "欧風のビーフがいいわね。"
@@ -380,11 +380,11 @@
         },
         {
             "index": 30,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 138,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "インド系のスパイスカレーだろ。"
@@ -393,11 +393,11 @@
         },
         {
             "index": 31,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 142,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "イヌと猫。"
@@ -406,11 +406,11 @@
         },
         {
             "index": 32,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 145,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "イヌ。"
@@ -419,11 +419,11 @@
         },
         {
             "index": 33,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 148,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "猫。"
@@ -432,11 +432,11 @@
         },
         {
             "index": 34,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 153,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "ふむ……、ここまで来ると、いっそ清々しいな。"
@@ -445,11 +445,11 @@
         },
         {
             "index": 35,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 155,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "そうね。"
@@ -458,11 +458,11 @@
         },
         {
             "index": 36,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 174,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "ん？　マネージャーさん？"
@@ -471,11 +471,11 @@
         },
         {
             "index": 37,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 177,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "はぁ……困ったものね。"
@@ -484,11 +484,11 @@
         },
         {
             "index": 38,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 181,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "どうした？"
@@ -497,11 +497,11 @@
         },
         {
             "index": 39,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 184,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "このあと、事務所に来てほしいって。\n今日中に必要な書類があるみたい。"
@@ -510,11 +510,11 @@
         },
         {
             "index": 40,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 187,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "その連絡なら、私にも来た。"
@@ -523,11 +523,11 @@
         },
         {
             "index": 41,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 189,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "もっとしっかりしてほしいわね。"
@@ -536,11 +536,11 @@
         },
         {
             "index": 42,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 192,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "そうだな、ジャーマネは肝心なところで抜けている。"
@@ -549,11 +549,11 @@
         },
         {
             "index": 43,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 197,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "決して、無能ではないのにな。"
@@ -562,11 +562,11 @@
         },
         {
             "index": 44,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 202,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "そうね。普段は仕事できるのに、時々、こうして抜けるのよね。"
@@ -575,11 +575,11 @@
         },
         {
             "index": 45,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 207,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "……。\nやっと意見が一致したな。"
@@ -588,11 +588,11 @@
         },
         {
             "index": 46,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 209,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "こんなことで一致してもね……。"
@@ -601,11 +601,11 @@
         },
         {
             "index": 47,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 227,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "いけない、朝ご飯が冷めちゃう。"
@@ -614,11 +614,11 @@
         },
         {
             "index": 48,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 232,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "なあ、聡里。"
@@ -627,11 +627,11 @@
         },
         {
             "index": 49,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 235,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "なに？"
@@ -640,11 +640,11 @@
         },
         {
             "index": 50,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 239,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "その目玉焼き、半分くれないか？"
@@ -653,11 +653,11 @@
         },
         {
             "index": 51,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 241,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "え？"
@@ -666,11 +666,11 @@
         },
         {
             "index": 52,
-            "heroineId": [
-                3
-            ],
+            "scenarioIndex": 246,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "鹿野志穂"
+                "default": "0人"
             },
             "message": {
                 "default": "ソースをかけるのは片側だけにしてくれ。\n醤油を取ってくる。"
@@ -679,11 +679,11 @@
         },
         {
             "index": 53,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 252,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "あ、ちょっと！"
@@ -692,16 +692,18 @@
         },
         {
             "index": 54,
-            "heroineId": [
-                14
-            ],
+            "scenarioIndex": 255,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宇津木聡里"
+                "default": "0人"
             },
             "message": {
                 "default": "はぁ。私の完璧な朝が……。"
             },
             "voice": "link/Link_503/link_503_054.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

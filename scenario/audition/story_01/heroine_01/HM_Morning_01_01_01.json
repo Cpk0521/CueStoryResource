@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Morning_01_01_01",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 16,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -27,5 +31,7 @@
             },
             "voice": "audition/story_01/heroine_01/HM_Morning_01_01_01/hm_morning_01_01_01_002.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

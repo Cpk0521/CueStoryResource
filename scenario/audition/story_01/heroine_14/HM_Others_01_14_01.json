@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Others_01_14_01",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 9,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 14
             ],
@@ -79,5 +91,7 @@
             },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_01/hm_others_01_14_01_006.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Main_01_01_04",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 16,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 27,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 37,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 41,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 42,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 46,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 47,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -146,6 +168,24 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 48,
+            "Type": 2,
+            "selectParams": [
+                {
+                    "default": "何か食べてく？"
+                },
+                {
+                    "default": "温かい飲み物を買って帰ろう"
+                },
+                {
+                    "default": "タクシーを呼ぼうか"
+                }
+            ]
+        },
+        {
+            "index": 13,
+            "scenarioIndex": 56,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -158,7 +198,9 @@
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_014.mp3"
         },
         {
-            "index": 13,
+            "index": 14,
+            "scenarioIndex": 63,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -171,7 +213,9 @@
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_016.mp3"
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 75,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -183,5 +227,7 @@
             },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_018.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

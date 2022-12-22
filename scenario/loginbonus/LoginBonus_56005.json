@@ -1,8 +1,10 @@
 {
     "Txt_Name": "LoginBonus_56005",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 19,
+            "Type": 0,
             "heroineId": [
                 1,
                 6,
@@ -19,6 +21,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 28,
+            "Type": 0,
             "heroineId": [
                 102
             ],
@@ -32,6 +36,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 39,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -45,6 +51,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 45,
+            "Type": 0,
             "heroineId": [
                 6
             ],
@@ -58,6 +66,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 51,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -71,6 +81,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 53,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -84,6 +96,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 64,
+            "Type": 0,
             "heroineId": [
                 102
             ],
@@ -97,6 +111,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 69,
+            "Type": 0,
             "heroineId": [
                 102
             ],
@@ -110,6 +126,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 84,
+            "Type": 0,
             "heroineId": [
                 1,
                 6,
@@ -126,6 +144,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 94,
+            "Type": 0,
             "heroineId": [
                 101
             ],
@@ -139,6 +159,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 97,
+            "Type": 0,
             "heroineId": [
                 101
             ],
@@ -152,6 +174,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 102,
+            "Type": 0,
             "heroineId": [
                 102
             ],
@@ -165,6 +189,8 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 113,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -178,6 +204,8 @@
         },
         {
             "index": 14,
+            "scenarioIndex": 124,
+            "Type": 0,
             "heroineId": [
                 102
             ],
@@ -191,6 +219,8 @@
         },
         {
             "index": 15,
+            "scenarioIndex": 126,
+            "Type": 0,
             "heroineId": [
                 101
             ],
@@ -204,6 +234,8 @@
         },
         {
             "index": 16,
+            "scenarioIndex": 128,
+            "Type": 0,
             "heroineId": [
                 102
             ],
@@ -217,6 +249,8 @@
         },
         {
             "index": 17,
+            "scenarioIndex": 142,
+            "Type": 0,
             "heroineId": [
                 1,
                 6,
@@ -231,5 +265,7 @@
             },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_017.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

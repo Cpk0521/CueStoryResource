@@ -1,8 +1,18 @@
 {
     "Txt_Name": "Event_013_05",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 6,
+            "Type": 1,
+            "message": {
+                "default": "――11:00――"
+            }
+        },
+        {
+            "index": 2,
+            "scenarioIndex": 16,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -15,7 +25,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_001.mp3"
         },
         {
-            "index": 2,
+            "index": 3,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -28,7 +40,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_002.mp3"
         },
         {
-            "index": 3,
+            "index": 4,
+            "scenarioIndex": 31,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -41,7 +55,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_003.mp3"
         },
         {
-            "index": 4,
+            "index": 5,
+            "scenarioIndex": 36,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -54,7 +70,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_004.mp3"
         },
         {
-            "index": 5,
+            "index": 6,
+            "scenarioIndex": 44,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -67,7 +85,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_005.mp3"
         },
         {
-            "index": 6,
+            "index": 7,
+            "scenarioIndex": 54,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -80,7 +100,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_006.mp3"
         },
         {
-            "index": 7,
+            "index": 8,
+            "scenarioIndex": 61,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -93,7 +115,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_007.mp3"
         },
         {
-            "index": 8,
+            "index": 9,
+            "scenarioIndex": 69,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -106,7 +130,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_008.mp3"
         },
         {
-            "index": 9,
+            "index": 10,
+            "scenarioIndex": 77,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -119,7 +145,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_009.mp3"
         },
         {
-            "index": 10,
+            "index": 11,
+            "scenarioIndex": 86,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -132,7 +160,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_010.mp3"
         },
         {
-            "index": 11,
+            "index": 12,
+            "scenarioIndex": 89,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -145,7 +175,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_011.mp3"
         },
         {
-            "index": 12,
+            "index": 13,
+            "scenarioIndex": 109,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -158,7 +190,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_012.mp3"
         },
         {
-            "index": 13,
+            "index": 14,
+            "scenarioIndex": 114,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -171,7 +205,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_013.mp3"
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 119,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -184,7 +220,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_014.mp3"
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 125,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -197,7 +235,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_015.mp3"
         },
         {
-            "index": 16,
+            "index": 17,
+            "scenarioIndex": 134,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -210,7 +250,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_016.mp3"
         },
         {
-            "index": 17,
+            "index": 18,
+            "scenarioIndex": 145,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -223,7 +265,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_017.mp3"
         },
         {
-            "index": 18,
+            "index": 19,
+            "scenarioIndex": 163,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -236,7 +280,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_018.mp3"
         },
         {
-            "index": 19,
+            "index": 20,
+            "scenarioIndex": 167,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -249,7 +295,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_019.mp3"
         },
         {
-            "index": 20,
+            "index": 21,
+            "scenarioIndex": 172,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -262,7 +310,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_020.mp3"
         },
         {
-            "index": 21,
+            "index": 22,
+            "scenarioIndex": 181,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -275,7 +325,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_021.mp3"
         },
         {
-            "index": 22,
+            "index": 23,
+            "scenarioIndex": 184,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -288,7 +340,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_022.mp3"
         },
         {
-            "index": 23,
+            "index": 24,
+            "scenarioIndex": 190,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -301,7 +355,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_023.mp3"
         },
         {
-            "index": 24,
+            "index": 25,
+            "scenarioIndex": 196,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -314,7 +370,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_024.mp3"
         },
         {
-            "index": 25,
+            "index": 26,
+            "scenarioIndex": 202,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -327,7 +385,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_025.mp3"
         },
         {
-            "index": 26,
+            "index": 27,
+            "scenarioIndex": 209,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -340,7 +400,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_026.mp3"
         },
         {
-            "index": 27,
+            "index": 28,
+            "scenarioIndex": 214,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -353,7 +415,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_027.mp3"
         },
         {
-            "index": 28,
+            "index": 29,
+            "scenarioIndex": 225,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -366,7 +430,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_028.mp3"
         },
         {
-            "index": 29,
+            "index": 30,
+            "scenarioIndex": 237,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -379,7 +445,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_029.mp3"
         },
         {
-            "index": 30,
+            "index": 31,
+            "scenarioIndex": 242,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -392,7 +460,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_030.mp3"
         },
         {
-            "index": 31,
+            "index": 32,
+            "scenarioIndex": 246,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -405,7 +475,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_031.mp3"
         },
         {
-            "index": 32,
+            "index": 33,
+            "scenarioIndex": 260,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -418,7 +490,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_032.mp3"
         },
         {
-            "index": 33,
+            "index": 34,
+            "scenarioIndex": 269,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -431,7 +505,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_033.mp3"
         },
         {
-            "index": 34,
+            "index": 35,
+            "scenarioIndex": 282,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -444,7 +520,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_034.mp3"
         },
         {
-            "index": 35,
+            "index": 36,
+            "scenarioIndex": 288,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -457,7 +535,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_035.mp3"
         },
         {
-            "index": 36,
+            "index": 37,
+            "scenarioIndex": 292,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -470,7 +550,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_036.mp3"
         },
         {
-            "index": 37,
+            "index": 38,
+            "scenarioIndex": 296,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -483,7 +565,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_037.mp3"
         },
         {
-            "index": 38,
+            "index": 39,
+            "scenarioIndex": 301,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -496,7 +580,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_038.mp3"
         },
         {
-            "index": 39,
+            "index": 40,
+            "scenarioIndex": 310,
+            "Type": 0,
             "heroineId": [
                 9
             ],
@@ -509,7 +595,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_039.mp3"
         },
         {
-            "index": 40,
+            "index": 41,
+            "scenarioIndex": 313,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -522,7 +610,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_040.mp3"
         },
         {
-            "index": 41,
+            "index": 42,
+            "scenarioIndex": 322,
+            "Type": 0,
             "heroineId": [
                 10
             ],
@@ -535,7 +625,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_041.mp3"
         },
         {
-            "index": 42,
+            "index": 43,
+            "scenarioIndex": 340,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -548,7 +640,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_042.mp3"
         },
         {
-            "index": 43,
+            "index": 44,
+            "scenarioIndex": 345,
+            "Type": 0,
             "heroineId": [
                 12
             ],
@@ -561,7 +655,9 @@
             "voice": "event/Event_013/Event_013_05/event_013_05_043.mp3"
         },
         {
-            "index": 44,
+            "index": 45,
+            "scenarioIndex": 351,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -573,5 +669,7 @@
             },
             "voice": "event/Event_013/Event_013_05/event_013_05_044.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

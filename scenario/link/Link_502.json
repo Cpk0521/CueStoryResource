@@ -1,13 +1,13 @@
 {
     "Txt_Name": "Link_502",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 18,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "ふー、お疲れ様。\nお昼、どこかお店で食べてく？"
@@ -16,11 +16,11 @@
         },
         {
             "index": 2,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 22,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "うーん。\nおいしいとこ！"
@@ -29,11 +29,11 @@
         },
         {
             "index": 3,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 30,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "それはそうでしょ。\n……まいっか。適当に探そ。"
@@ -42,11 +42,11 @@
         },
         {
             "index": 4,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 39,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "オッケー！\nおっ、あそことかいいんじゃない？"
@@ -55,11 +55,11 @@
         },
         {
             "index": 5,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 43,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "ふうん、立ち食い蕎麦……ね。　"
@@ -68,11 +68,11 @@
         },
         {
             "index": 6,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 54,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……黄色い看板にメニューの文字は黒と赤……か。\nわかってんじゃん。"
@@ -81,11 +81,11 @@
         },
         {
             "index": 7,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 62,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "でも蕎麦かー。\nあそこに見える定食屋も気になるんだよなあ……。"
@@ -94,11 +94,11 @@
         },
         {
             "index": 8,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 69,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "はあ？\nあんたが言ったんでしょ。"
@@ -107,11 +107,11 @@
         },
         {
             "index": 9,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 74,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "細かいことはいいじゃん。\n他にもちょっと見てみようよ！"
@@ -120,11 +120,11 @@
         },
         {
             "index": 10,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 77,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……まぁ、いいけど。　"
@@ -133,11 +133,11 @@
         },
         {
             "index": 11,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 100,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……え、ここ？　"
@@ -146,11 +146,11 @@
         },
         {
             "index": 12,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 107,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "そう！\nザ・昔ながらの定食屋って感じで、ビビッときた！"
@@ -159,11 +159,11 @@
         },
         {
             "index": 13,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 113,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "ま、あんた好きそうよね。　"
@@ -172,11 +172,11 @@
         },
         {
             "index": 14,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 122,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "ほら見てよ、このショーケース。\nサンプルの年季入った感じとか！　こういうとこは絶対おいしい！"
@@ -185,11 +185,11 @@
         },
         {
             "index": 15,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 131,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "いやー技術だけじゃこの味はでないんだよなあ。\n経年劣化でしか出せない味ってあるよね！"
@@ -198,11 +198,11 @@
         },
         {
             "index": 16,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 136,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "あんた何の話してんのよ。　"
@@ -211,11 +211,11 @@
         },
         {
             "index": 17,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 145,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "ま、でもこういうところの揚げ物って間違いないんだよね。\n何の油で揚げてんだろ。"
@@ -224,11 +224,11 @@
         },
         {
             "index": 18,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 151,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……うん、いいかも。　"
@@ -237,11 +237,11 @@
         },
         {
             "index": 19,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 157,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "うーん、\nでもさっきの蕎麦も捨てがたいしなぁ……。"
@@ -250,11 +250,11 @@
         },
         {
             "index": 20,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 162,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "はあ？\nここでもないの？　"
@@ -263,11 +263,11 @@
         },
         {
             "index": 21,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 166,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "わかってないなあ、こういうのは悩む時間に価値があるんだって。　"
@@ -276,11 +276,11 @@
         },
         {
             "index": 22,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 172,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……もういい、まほろが探す。　"
@@ -289,11 +289,11 @@
         },
         {
             "index": 23,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 197,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "ふむふむ、ラーメンかぁ。\nまほろ好きだよね―。"
@@ -302,11 +302,11 @@
         },
         {
             "index": 24,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 202,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "ずっとここは目つけてたんだよね。\n大塚にある名店の2ndブランドが開店したの。"
@@ -315,11 +315,11 @@
         },
         {
             "index": 25,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 208,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "有名店の2店舗目って微妙なことも多いけど、\nあの店主だったら間違いないはず……。"
@@ -328,11 +328,11 @@
         },
         {
             "index": 26,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 213,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……。　"
@@ -341,11 +341,11 @@
         },
         {
             "index": 27,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 218,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "ん、どしたの？　"
@@ -354,11 +354,11 @@
         },
         {
             "index": 28,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 222,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "いや、ちょっと別のお店も探す。　"
@@ -367,11 +367,11 @@
         },
         {
             "index": 29,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 227,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "え、なんで？　"
@@ -380,11 +380,11 @@
         },
         {
             "index": 30,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 252,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "あとは……あっちか。　"
@@ -393,11 +393,11 @@
         },
         {
             "index": 31,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 256,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "お、居酒屋？　"
@@ -406,11 +406,11 @@
         },
         {
             "index": 32,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 263,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "うん、昼はランチもやってるみたい。\n1日10食限定、特製中落ち丼だって。"
@@ -419,11 +419,11 @@
         },
         {
             "index": 33,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 269,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "……フッ。\nまだまだ甘いね、まほろ。"
@@ -432,11 +432,11 @@
         },
         {
             "index": 34,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 274,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "ウチの店もそうだけど、\nこういうのは大体オープンに来るお客さんで無くなっちゃうよ。"
@@ -445,11 +445,11 @@
         },
         {
             "index": 35,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 281,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "それもそっか。\nでも、この牛すじ煮込み定食とか、結構いい見た目してない？"
@@ -458,11 +458,11 @@
         },
         {
             "index": 36,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 287,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "お、確かに。\n白髪ネギ使ってるのが天童ポイント高い！"
@@ -471,11 +471,11 @@
         },
         {
             "index": 37,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 292,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……よし、ここにしよっか。　"
@@ -484,11 +484,11 @@
         },
         {
             "index": 38,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 298,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "オッケー！\nってあれ、もうレッスンの時間じゃない？"
@@ -497,11 +497,11 @@
         },
         {
             "index": 39,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 304,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "うわ、本当だ。\nどうする？"
@@ -510,11 +510,11 @@
         },
         {
             "index": 40,
-            "heroineId": [
-                5
-            ],
+            "scenarioIndex": 312,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "天童悠希"
+                "default": "0人"
             },
             "message": {
                 "default": "……仕方ない。\n肉のバンザイでカツサンド買って戻るか。"
@@ -523,16 +523,18 @@
         },
         {
             "index": 41,
-            "heroineId": [
-                11
-            ],
+            "scenarioIndex": 317,
+            "Type": 0,
+            "heroineId": [],
             "name": {
-                "default": "宮路まほろ"
+                "default": "0人"
             },
             "message": {
                 "default": "……それはあり。　"
             },
             "voice": "link/Link_502/link_502_041.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

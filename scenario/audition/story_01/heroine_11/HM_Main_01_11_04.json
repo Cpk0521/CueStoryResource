@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Main_01_11_04",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 9,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 12,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 14,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 19,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 25,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 28,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -133,6 +153,8 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 30,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -146,6 +168,8 @@
         },
         {
             "index": 12,
+            "scenarioIndex": 31,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -159,6 +183,24 @@
         },
         {
             "index": 13,
+            "scenarioIndex": 32,
+            "Type": 2,
+            "selectParams": [
+                {
+                    "default": "自分も信じてるよ"
+                },
+                {
+                    "default": "強いね、まほろは"
+                },
+                {
+                    "default": "もしもの時は慰めるからね！"
+                }
+            ]
+        },
+        {
+            "index": 14,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -171,7 +213,9 @@
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_04/hm_main_01_11_04_014.mp3"
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 36,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -184,7 +228,9 @@
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_04/hm_main_01_11_04_015.mp3"
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 41,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -197,7 +243,9 @@
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_04/hm_main_01_11_04_017.mp3"
         },
         {
-            "index": 16,
+            "index": 17,
+            "scenarioIndex": 42,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -210,7 +258,9 @@
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_04/hm_main_01_11_04_018.mp3"
         },
         {
-            "index": 17,
+            "index": 18,
+            "scenarioIndex": 47,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -223,7 +273,9 @@
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_04/hm_main_01_11_04_020.mp3"
         },
         {
-            "index": 18,
+            "index": 19,
+            "scenarioIndex": 49,
+            "Type": 0,
             "heroineId": [
                 11
             ],
@@ -235,5 +287,7 @@
             },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_04/hm_main_01_11_04_021.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

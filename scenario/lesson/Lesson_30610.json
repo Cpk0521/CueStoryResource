@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Lesson_30610",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 4,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 5,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -29,6 +33,16 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 9,
+            "Type": 1,
+            "message": {
+                "default": "― 12:00 ―"
+            }
+        },
+        {
+            "index": 4,
+            "scenarioIndex": 20,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -41,7 +55,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_003.mp3"
         },
         {
-            "index": 4,
+            "index": 5,
+            "scenarioIndex": 24,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -54,7 +70,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_004.mp3"
         },
         {
-            "index": 5,
+            "index": 6,
+            "scenarioIndex": 28,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -67,7 +85,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_005.mp3"
         },
         {
-            "index": 6,
+            "index": 7,
+            "scenarioIndex": 31,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -80,7 +100,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_006.mp3"
         },
         {
-            "index": 7,
+            "index": 8,
+            "scenarioIndex": 34,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -93,7 +115,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_007.mp3"
         },
         {
-            "index": 8,
+            "index": 9,
+            "scenarioIndex": 38,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -106,7 +130,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_008.mp3"
         },
         {
-            "index": 9,
+            "index": 10,
+            "scenarioIndex": 42,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -119,7 +145,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_009.mp3"
         },
         {
-            "index": 10,
+            "index": 11,
+            "scenarioIndex": 44,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -132,7 +160,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_010.mp3"
         },
         {
-            "index": 11,
+            "index": 12,
+            "scenarioIndex": 49,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -145,7 +175,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_011.mp3"
         },
         {
-            "index": 12,
+            "index": 13,
+            "scenarioIndex": 53,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -158,7 +190,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_012.mp3"
         },
         {
-            "index": 13,
+            "index": 14,
+            "scenarioIndex": 56,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -171,7 +205,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_013.mp3"
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 59,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -184,7 +220,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_014.mp3"
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 61,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -197,7 +235,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_015.mp3"
         },
         {
-            "index": 16,
+            "index": 17,
+            "scenarioIndex": 65,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -210,7 +250,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_016.mp3"
         },
         {
-            "index": 17,
+            "index": 18,
+            "scenarioIndex": 68,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -223,7 +265,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_017.mp3"
         },
         {
-            "index": 18,
+            "index": 19,
+            "scenarioIndex": 73,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -236,7 +280,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_018.mp3"
         },
         {
-            "index": 19,
+            "index": 20,
+            "scenarioIndex": 76,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -249,7 +295,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_019.mp3"
         },
         {
-            "index": 20,
+            "index": 21,
+            "scenarioIndex": 78,
+            "Type": 0,
             "heroineId": [
                 16
             ],
@@ -262,7 +310,9 @@
             "voice": "lesson/Lesson_30610/lesson_30610_020.mp3"
         },
         {
-            "index": 21,
+            "index": 22,
+            "scenarioIndex": 80,
+            "Type": 0,
             "heroineId": [
                 15
             ],
@@ -274,5 +324,7 @@
             },
             "voice": "lesson/Lesson_30610/lesson_30610_021.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

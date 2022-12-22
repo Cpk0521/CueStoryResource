@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Card_4040010_1",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 23,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 26,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 29,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -68,6 +78,8 @@
         },
         {
             "index": 6,
+            "scenarioIndex": 33,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -81,6 +93,8 @@
         },
         {
             "index": 7,
+            "scenarioIndex": 41,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -94,6 +108,8 @@
         },
         {
             "index": 8,
+            "scenarioIndex": 54,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -107,6 +123,8 @@
         },
         {
             "index": 9,
+            "scenarioIndex": 56,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -120,6 +138,8 @@
         },
         {
             "index": 10,
+            "scenarioIndex": 58,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -133,6 +153,16 @@
         },
         {
             "index": 11,
+            "scenarioIndex": 64,
+            "Type": 1,
+            "message": {
+                "default": "― 数時間前 ―"
+            }
+        },
+        {
+            "index": 12,
+            "scenarioIndex": 69,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -145,7 +175,9 @@
             "voice": ""
         },
         {
-            "index": 12,
+            "index": 13,
+            "scenarioIndex": 72,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -158,7 +190,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_012.mp3"
         },
         {
-            "index": 13,
+            "index": 14,
+            "scenarioIndex": 73,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -171,7 +205,9 @@
             "voice": ""
         },
         {
-            "index": 14,
+            "index": 15,
+            "scenarioIndex": 75,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -184,7 +220,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_014.mp3"
         },
         {
-            "index": 15,
+            "index": 16,
+            "scenarioIndex": 77,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -197,7 +235,9 @@
             "voice": ""
         },
         {
-            "index": 16,
+            "index": 17,
+            "scenarioIndex": 80,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -210,7 +250,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_016.mp3"
         },
         {
-            "index": 17,
+            "index": 18,
+            "scenarioIndex": 82,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -223,7 +265,9 @@
             "voice": ""
         },
         {
-            "index": 18,
+            "index": 19,
+            "scenarioIndex": 83,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -236,7 +280,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_018.mp3"
         },
         {
-            "index": 19,
+            "index": 20,
+            "scenarioIndex": 85,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -249,7 +295,9 @@
             "voice": ""
         },
         {
-            "index": 20,
+            "index": 21,
+            "scenarioIndex": 88,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -262,7 +310,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_020.mp3"
         },
         {
-            "index": 21,
+            "index": 22,
+            "scenarioIndex": 90,
+            "Type": 0,
             "heroineId": [
                 0
             ],
@@ -275,7 +325,9 @@
             "voice": ""
         },
         {
-            "index": 22,
+            "index": 23,
+            "scenarioIndex": 93,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -288,7 +340,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_022.mp3"
         },
         {
-            "index": 23,
+            "index": 24,
+            "scenarioIndex": 98,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -301,7 +355,17 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_023.mp3"
         },
         {
-            "index": 24,
+            "index": 25,
+            "scenarioIndex": 103,
+            "Type": 1,
+            "message": {
+                "default": "― 現在 ―"
+            }
+        },
+        {
+            "index": 26,
+            "scenarioIndex": 110,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -314,7 +378,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_024.mp3"
         },
         {
-            "index": 25,
+            "index": 27,
+            "scenarioIndex": 114,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -327,7 +393,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_025.mp3"
         },
         {
-            "index": 26,
+            "index": 28,
+            "scenarioIndex": 117,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -340,7 +408,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_026.mp3"
         },
         {
-            "index": 27,
+            "index": 29,
+            "scenarioIndex": 119,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -353,7 +423,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_027.mp3"
         },
         {
-            "index": 28,
+            "index": 30,
+            "scenarioIndex": 123,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -366,7 +438,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_028.mp3"
         },
         {
-            "index": 29,
+            "index": 31,
+            "scenarioIndex": 127,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -379,7 +453,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_029.mp3"
         },
         {
-            "index": 30,
+            "index": 32,
+            "scenarioIndex": 130,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -392,7 +468,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_030.mp3"
         },
         {
-            "index": 31,
+            "index": 33,
+            "scenarioIndex": 132,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -405,7 +483,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_031.mp3"
         },
         {
-            "index": 32,
+            "index": 34,
+            "scenarioIndex": 135,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -418,7 +498,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_032.mp3"
         },
         {
-            "index": 33,
+            "index": 35,
+            "scenarioIndex": 137,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -431,7 +513,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_033.mp3"
         },
         {
-            "index": 34,
+            "index": 36,
+            "scenarioIndex": 144,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -444,7 +528,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_034.mp3"
         },
         {
-            "index": 35,
+            "index": 37,
+            "scenarioIndex": 147,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -457,7 +543,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_035.mp3"
         },
         {
-            "index": 36,
+            "index": 38,
+            "scenarioIndex": 150,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -470,7 +558,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_036.mp3"
         },
         {
-            "index": 37,
+            "index": 39,
+            "scenarioIndex": 152,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -483,7 +573,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_037.mp3"
         },
         {
-            "index": 38,
+            "index": 40,
+            "scenarioIndex": 155,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -496,7 +588,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_038.mp3"
         },
         {
-            "index": 39,
+            "index": 41,
+            "scenarioIndex": 157,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -509,7 +603,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_039.mp3"
         },
         {
-            "index": 40,
+            "index": 42,
+            "scenarioIndex": 159,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -522,7 +618,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_040.mp3"
         },
         {
-            "index": 41,
+            "index": 43,
+            "scenarioIndex": 162,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -535,7 +633,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_041.mp3"
         },
         {
-            "index": 42,
+            "index": 44,
+            "scenarioIndex": 165,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -548,7 +648,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_042.mp3"
         },
         {
-            "index": 43,
+            "index": 45,
+            "scenarioIndex": 173,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -561,7 +663,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_043.mp3"
         },
         {
-            "index": 44,
+            "index": 46,
+            "scenarioIndex": 176,
+            "Type": 0,
             "heroineId": [
                 2
             ],
@@ -574,7 +678,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_044.mp3"
         },
         {
-            "index": 45,
+            "index": 47,
+            "scenarioIndex": 196,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -587,7 +693,9 @@
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_045.mp3"
         },
         {
-            "index": 46,
+            "index": 48,
+            "scenarioIndex": 200,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -599,5 +707,7 @@
             },
             "voice": "card/Card_04/Card_4040010_1/card_4040010_1_046.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

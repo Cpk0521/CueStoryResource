@@ -1,8 +1,10 @@
 {
     "Txt_Name": "HM_Sub_01_04_19",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 8,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 11,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 15,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 17,
+            "Type": 0,
             "heroineId": [
                 4
             ],
@@ -66,5 +76,7 @@
             },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_19/hm_sub_01_04_19_005.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }

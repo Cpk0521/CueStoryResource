@@ -1,8 +1,10 @@
 {
     "Txt_Name": "Card_9010016_1",
-    "Dialogue": [
+    "Logs": [
         {
             "index": 1,
+            "scenarioIndex": 7,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -16,6 +18,8 @@
         },
         {
             "index": 2,
+            "scenarioIndex": 10,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -29,6 +33,8 @@
         },
         {
             "index": 3,
+            "scenarioIndex": 13,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -42,6 +48,8 @@
         },
         {
             "index": 4,
+            "scenarioIndex": 16,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -55,6 +63,8 @@
         },
         {
             "index": 5,
+            "scenarioIndex": 18,
+            "Type": 0,
             "heroineId": [
                 1
             ],
@@ -66,5 +76,7 @@
             },
             "voice": "card/Card_01/Card_9010016_1/card_9010016_1_005.mp3"
         }
-    ]
+    ],
+    "Language": [],
+    "Translator": {}
 }
