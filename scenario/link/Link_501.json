@@ -5,9 +5,11 @@
             "index": 1,
             "scenarioIndex": 13,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "あ、陽菜さん。\nそれ、カナダの湖ですよね？"
@@ -18,9 +20,11 @@
             "index": 2,
             "scenarioIndex": 22,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "うん。テレビ付けたらやってたの。\nあいりちゃんも見る？"
@@ -31,9 +35,11 @@
             "index": 3,
             "scenarioIndex": 28,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "はい。隣、座っちゃいますね。"
@@ -44,9 +50,11 @@
             "index": 4,
             "scenarioIndex": 34,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "うん。どうぞ。"
@@ -57,9 +65,11 @@
             "index": 5,
             "scenarioIndex": 45,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "わぁ、綺麗な景色……。"
@@ -70,9 +80,11 @@
             "index": 6,
             "scenarioIndex": 48,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "綺麗だねー、いつか行ってみたいよね。"
@@ -83,9 +95,11 @@
             "index": 7,
             "scenarioIndex": 66,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                5
+            ],
             "name": {
-                "default": "0人"
+                "default": "天童悠希"
             },
             "message": {
                 "default": "あ！　あいり、南京錠持ってない？\n大きめのやつ！"
@@ -96,9 +110,11 @@
             "index": 8,
             "scenarioIndex": 71,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "えぇ……？\n南京錠なんて、何に使うの？"
@@ -109,9 +125,11 @@
             "index": 9,
             "scenarioIndex": 76,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                5
+            ],
             "name": {
-                "default": "0人"
+                "default": "天童悠希"
             },
             "message": {
                 "default": "いいからいいから！"
@@ -122,9 +140,11 @@
             "index": 10,
             "scenarioIndex": 79,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "うーん、千紗ちゃんなら、持ってるかも……。"
@@ -135,9 +155,11 @@
             "index": 11,
             "scenarioIndex": 84,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                5
+            ],
             "name": {
-                "default": "0人"
+                "default": "天童悠希"
             },
             "message": {
                 "default": "オッケーあいり、ありがと！"
@@ -148,9 +170,11 @@
             "index": 12,
             "scenarioIndex": 91,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "……行っちゃった。"
@@ -161,9 +185,11 @@
             "index": 13,
             "scenarioIndex": 94,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "悠希ちゃん、嵐のように去っていったね……。"
@@ -174,9 +200,11 @@
             "index": 14,
             "scenarioIndex": 101,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "はい……。"
@@ -187,9 +215,11 @@
             "index": 15,
             "scenarioIndex": 114,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                5
+            ],
             "name": {
-                "default": "0人"
+                "default": "天童悠希"
             },
             "message": {
                 "default": "あいりー！　鎖とか持ってない？\n５ｍくらいのやつ！"
@@ -200,9 +230,11 @@
             "index": 16,
             "scenarioIndex": 119,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "ええっ！？\n持ってないよそんなの……。"
@@ -213,9 +245,11 @@
             "index": 17,
             "scenarioIndex": 124,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                5
+            ],
             "name": {
-                "default": "0人"
+                "default": "天童悠希"
             },
             "message": {
                 "default": "わかった！　千紗に聞いてみる！"
@@ -226,9 +260,11 @@
             "index": 18,
             "scenarioIndex": 130,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "悠希ちゃん、何があったの！？\n……って、また行っちゃった。"
@@ -239,9 +275,11 @@
             "index": 19,
             "scenarioIndex": 136,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "……なんだか、すごいね。"
@@ -252,9 +290,11 @@
             "index": 20,
             "scenarioIndex": 143,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "うーん……、大丈夫かなぁ。"
@@ -265,9 +305,11 @@
             "index": 21,
             "scenarioIndex": 152,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "陽菜。"
@@ -278,9 +320,11 @@
             "index": 22,
             "scenarioIndex": 156,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "志穂ちゃん、何？\nどうしたの？"
@@ -291,9 +335,11 @@
             "index": 23,
             "scenarioIndex": 161,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "退屈な日常を打破するためのアイデアが湧いた。\n今すぐ部屋に来てくれ。"
@@ -304,9 +350,11 @@
             "index": 24,
             "scenarioIndex": 166,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "え？　アイデアってなんの？\nわたし今、ちょっとテレビ見てて……。"
@@ -317,9 +365,11 @@
             "index": 25,
             "scenarioIndex": 175,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "舞花とほのかをヒップホップユニットとして、\nデビューさせようと思う。"
@@ -330,9 +380,11 @@
             "index": 26,
             "scenarioIndex": 179,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "ええっ？"
@@ -343,9 +395,11 @@
             "index": 27,
             "scenarioIndex": 181,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "MCは舞花、DJはほのかがいいと思うんだが。"
@@ -356,9 +410,11 @@
             "index": 28,
             "scenarioIndex": 186,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "それ舞花ちゃんとほのかちゃんはやる気なの？"
@@ -369,9 +425,11 @@
             "index": 29,
             "scenarioIndex": 191,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "どうかな。まだ話してない。"
@@ -382,9 +440,11 @@
             "index": 30,
             "scenarioIndex": 194,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "わからないけど、嫌だって言うと思うよ……？"
@@ -395,9 +455,11 @@
             "index": 31,
             "scenarioIndex": 206,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "やっぱりダメか。\nこれでしばらく毎日を無駄に楽しく過ごせる気がしたんだがな。"
@@ -408,9 +470,11 @@
             "index": 32,
             "scenarioIndex": 210,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "やっぱりって、志穂ちゃん。\nダメなのわかって言ってるよね？"
@@ -421,9 +485,11 @@
             "index": 33,
             "scenarioIndex": 216,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "あ、陽菜がラップでもいいぞ。どうだ？　チェケラ。"
@@ -434,9 +500,11 @@
             "index": 34,
             "scenarioIndex": 220,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "やりません。"
@@ -447,9 +515,11 @@
             "index": 35,
             "scenarioIndex": 225,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "残念。\nふむ……、また違うアイデアを考えることにしよう。"
@@ -460,9 +530,11 @@
             "index": 36,
             "scenarioIndex": 232,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "じゃ、また後でな。"
@@ -473,9 +545,11 @@
             "index": 37,
             "scenarioIndex": 236,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "あ、ちょっと待って、志穂ちゃん！"
@@ -486,9 +560,11 @@
             "index": 38,
             "scenarioIndex": 239,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "志穂さん、行っちゃいましたね……。"
@@ -499,9 +575,11 @@
             "index": 39,
             "scenarioIndex": 243,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "うん……。"
@@ -512,9 +590,11 @@
             "index": 40,
             "scenarioIndex": 248,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "……ふふっ。"
@@ -525,9 +605,11 @@
             "index": 41,
             "scenarioIndex": 255,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                7
+            ],
             "name": {
-                "default": "0人"
+                "default": "恵庭あいり"
             },
             "message": {
                 "default": "あいり、なんだか陽菜さんに親近感湧いちゃいました。"
@@ -538,9 +620,11 @@
             "index": 42,
             "scenarioIndex": 263,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                1
+            ],
             "name": {
-                "default": "0人"
+                "default": "六石陽菜"
             },
             "message": {
                 "default": "ふふっ。わたしも。"
@@ -551,9 +635,11 @@
             "index": 43,
             "scenarioIndex": 270,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                5
+            ],
             "name": {
-                "default": "0人"
+                "default": "天童悠希"
             },
             "message": {
                 "default": "あいりー！"
@@ -564,9 +650,11 @@
             "index": 44,
             "scenarioIndex": 271,
             "Type": 0,
-            "heroineId": [],
+            "heroineId": [
+                3
+            ],
             "name": {
-                "default": "0人"
+                "default": "鹿野志穂"
             },
             "message": {
                 "default": "陽菜ー。"
