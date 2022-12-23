@@ -14,7 +14,7 @@
             "message": {
                 "default": "ここにいらしたんですか？\nもうすぐ式が始まりますよ！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_2/card_4040012_2_001.mp3"
         },
         {
             "index": 2,
@@ -44,7 +44,7 @@
             "message": {
                 "default": "あぁ……。式の直前に、そういうお気持ちになる花嫁さんも、\nたくさんいらっしゃいます。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_2/card_4040012_2_003.mp3"
         },
         {
             "index": 4,
@@ -74,7 +74,7 @@
             "message": {
                 "default": "ひとまず控室にご案内いたします。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_2/card_4040012_2_005.mp3"
         },
         {
             "index": 6,
@@ -391,7 +391,7 @@
             "message": {
                 "default": "お待ちください！　もう時間がありません！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_2/card_4040012_2_026.mp3"
         },
         {
             "index": 27,
@@ -421,7 +421,7 @@
             "message": {
                 "default": "そのお気持ちはすごくわかります！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_2/card_4040012_2_028.mp3"
         },
         {
             "index": 29,
@@ -451,7 +451,7 @@
             "message": {
                 "default": "早く新婦控室へ！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_2/card_4040012_2_030.mp3"
         },
         {
             "index": 31,
@@ -526,7 +526,7 @@
             "message": {
                 "default": "お待ちくださいー！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_2/card_4040012_2_035.mp3"
         },
         {
             "index": 36,

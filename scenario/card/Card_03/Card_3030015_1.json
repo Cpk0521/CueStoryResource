@@ -374,7 +374,7 @@
             "message": {
                 "default": "ごめん。\nいざ会って話すと、普通の会話すら出来なくて。"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_3030015_1/card_3030015_1_025.mp3"
         },
         {
             "index": 26,
@@ -389,7 +389,7 @@
             "message": {
                 "default": "みんながいると、大丈夫なんだけどね。\n2人きりになると、急に緊張しちゃって。"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_3030015_1/card_3030015_1_026.mp3"
         },
         {
             "index": 27,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "……うん、ありがとう。\nねぇ、今度、いつ会えるかな。"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_3030015_1/card_3030015_1_027.mp3"
         },
         {
             "index": 28,

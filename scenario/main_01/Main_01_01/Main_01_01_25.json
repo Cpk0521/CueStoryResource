@@ -44,7 +44,7 @@
             "message": {
                 "default": "（大丈夫。陽菜ならきっと出来るよ。）"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_01/Main_01_01_25/main_01_01_25_003.mp3"
         },
         {
             "index": 4,
@@ -74,7 +74,7 @@
             "message": {
                 "default": "（今日までずっと頑張ってきたんだ。きっとうまくいく。）"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_01/Main_01_01_25/main_01_01_25_005.mp3"
         },
         {
             "index": 6,
@@ -119,7 +119,7 @@
             "message": {
                 "default": "（精神統一。）"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_01/Main_01_01_25/main_01_01_25_008.mp3"
         },
         {
             "index": 9,
@@ -149,7 +149,7 @@
             "message": {
                 "default": "（陽菜には仲間がいる。\n仲間と仲良く話すことで落ち着くかもしれない。）"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_01/Main_01_01_25/main_01_01_25_010.mp3"
         },
         {
             "index": 11,

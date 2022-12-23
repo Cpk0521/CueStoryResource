@@ -89,7 +89,7 @@
             "message": {
                 "default": "はい、顔はそのまま。\nこっちに視線お願いします！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_3/card_4040012_3_006.mp3"
         },
         {
             "index": 7,
@@ -119,7 +119,7 @@
             "message": {
                 "default": "いいですね！\nそのまま何枚かいただきます！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_3/card_4040012_3_008.mp3"
         },
         {
             "index": 9,
@@ -179,7 +179,7 @@
             "message": {
                 "default": "よし。じゃあ、10分休憩―！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_3/card_4040012_3_012.mp3"
         },
         {
             "index": 13,
@@ -509,7 +509,7 @@
             "message": {
                 "default": "じゃあ、そろそろ撮影再開します！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_3/card_4040012_3_034.mp3"
         },
         {
             "index": 35,

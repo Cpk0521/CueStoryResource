@@ -329,7 +329,7 @@
             "message": {
                 "default": "あ！　りんねちゃん！？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_022.mp3"
         },
         {
             "index": 23,
@@ -359,7 +359,7 @@
             "message": {
                 "default": "やっぱりりんねちゃんだ！\nりんねちゃーん！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_024.mp3"
         },
         {
             "index": 25,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "ねえ、りんねちゃーん、そっち行っていい？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_027.mp3"
         },
         {
             "index": 28,
@@ -464,7 +464,7 @@
             "message": {
                 "default": "え？　違うよ？\nあのね、カナのおばあちゃんちがむこうにあるの。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_031.mp3"
         },
         {
             "index": 32,
@@ -479,7 +479,7 @@
             "message": {
                 "default": "おばあちゃんちにはね、\nいつもお母さんと一緒によく行くんだー。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_032.mp3"
         },
         {
             "index": 33,
@@ -524,7 +524,7 @@
             "message": {
                 "default": "うん。カナ、たっくさん知ってるよ。\nりんねちゃんはあんまり知らない？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_035.mp3"
         },
         {
             "index": 36,
@@ -569,7 +569,7 @@
             "message": {
                 "default": "えー、そうなの？\nうん、わかった！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_038.mp3"
         },
         {
             "index": 39,
@@ -584,7 +584,7 @@
             "message": {
                 "default": "じゃあ、りんねちゃん、\nカナが案内してあげるね！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_039.mp3"
         },
         {
             "index": 40,
@@ -614,7 +614,7 @@
             "message": {
                 "default": "えへへー。ついてきて！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_1/card_4150013_1_041.mp3"
         },
         {
             "index": 42,

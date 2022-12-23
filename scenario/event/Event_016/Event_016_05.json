@@ -14,7 +14,7 @@
             "message": {
                 "default": "―僕のこと覚えてくれてたんだって知れて本当に嬉しいんだ―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_05/event_016_05_001.mp3"
         },
         {
             "index": 2,
@@ -29,7 +29,7 @@
             "message": {
                 "default": "―僕も君たちのこと、忘れたことなんて1度もないよ―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_05/event_016_05_002.mp3"
         },
         {
             "index": 3,

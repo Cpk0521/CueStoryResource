@@ -59,7 +59,7 @@
             "message": {
                 "default": "…………絢。"
             },
-            "voice": ""
+            "voice": "card/Card_10/Card_4100011_1/card_4100011_1_004.mp3"
         },
         {
             "index": 5,
@@ -89,7 +89,7 @@
             "message": {
                 "default": "……絢。"
             },
-            "voice": ""
+            "voice": "card/Card_10/Card_4100011_1/card_4100011_1_006.mp3"
         },
         {
             "index": 7,

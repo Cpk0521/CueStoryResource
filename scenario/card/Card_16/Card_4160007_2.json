@@ -839,7 +839,7 @@
             "message": {
                 "default": "鳴、ママの買って来た服着てみて。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160007_2/card_4160007_2_056.mp3"
         },
         {
             "index": 57,
@@ -869,7 +869,7 @@
             "message": {
                 "default": "あらかわいいわねー。\nでもちょっと、子供っぽいかしら。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160007_2/card_4160007_2_058.mp3"
         },
         {
             "index": 59,

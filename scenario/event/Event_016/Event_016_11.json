@@ -316,7 +316,7 @@
             "message": {
                 "default": "―今日はどこに出かけるのかな？―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_11/event_016_11_021.mp3"
         },
         {
             "index": 22,
@@ -331,7 +331,7 @@
             "message": {
                 "default": "―いつも4人一緒、本当に仲がいいんだね。君たちは―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_11/event_016_11_022.mp3"
         },
         {
             "index": 23,
@@ -439,7 +439,7 @@
             "message": {
                 "default": "―君たちが今も楽しそうにしてるのを見れて良かった―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_11/event_016_11_029.mp3"
         },
         {
             "index": 30,
@@ -454,7 +454,7 @@
             "message": {
                 "default": "―じゃあ、またね―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_11/event_016_11_030.mp3"
         }
     ],
     "Language": [],

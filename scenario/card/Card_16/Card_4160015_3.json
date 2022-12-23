@@ -509,7 +509,7 @@
             "message": {
                 "default": "あら、真咲、いらっしゃい。久しぶりね。\nお花まで頂いちゃって。ありがとう。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_3/card_4160015_3_034.mp3"
         },
         {
             "index": 35,
@@ -524,7 +524,7 @@
             "message": {
                 "default": "あなたのとこの子たち頑張ってるじゃない。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_3/card_4160015_3_035.mp3"
         },
         {
             "index": 36,
@@ -539,7 +539,7 @@
             "message": {
                 "default": "エールブルーの名前を聞いて、\nつい知らないふりをしちゃったけど、"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_3/card_4160015_3_036.mp3"
         },
         {
             "index": 37,
@@ -554,7 +554,7 @@
             "message": {
                 "default": "私、すっかりあの子達のファンになったわ。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_3/card_4160015_3_037.mp3"
         },
         {
             "index": 38,
@@ -569,7 +569,7 @@
             "message": {
                 "default": "ま、座って。コーヒーでいい？\n桐香も元気にしてるの？"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_3/card_4160015_3_038.mp3"
         }
     ],
     "Language": [],

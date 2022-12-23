@@ -14,7 +14,7 @@
             "message": {
                 "default": "りんねちゃん！　りんねちゃーん！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_001.mp3"
         },
         {
             "index": 2,
@@ -269,7 +269,7 @@
             "message": {
                 "default": "ねーねー、りんねちゃん。\nこのおねえさんはだーれ？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_018.mp3"
         },
         {
             "index": 19,
@@ -299,7 +299,7 @@
             "message": {
                 "default": "りんねちゃんのおともだち？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_020.mp3"
         },
         {
             "index": 21,
@@ -344,7 +344,7 @@
             "message": {
                 "default": "りえんぬおねえさん！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_023.mp3"
         },
         {
             "index": 24,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "あくま？\nおねえさん、あくまなの？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_025.mp3"
         },
         {
             "index": 26,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "りえおねえさん！\nりえおねえさんも、おしゃしん、とってくれるの？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_027.mp3"
         },
         {
             "index": 28,
@@ -434,7 +434,7 @@
             "message": {
                 "default": "えー、とってくれないのー？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_029.mp3"
         },
         {
             "index": 30,
@@ -479,7 +479,7 @@
             "message": {
                 "default": "りえおねえさーん……。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_032.mp3"
         },
         {
             "index": 33,
@@ -509,7 +509,7 @@
             "message": {
                 "default": "ほんと！？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_034.mp3"
         },
         {
             "index": 35,
@@ -524,7 +524,7 @@
             "message": {
                 "default": "やったぁー！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_035.mp3"
         },
         {
             "index": 36,
@@ -584,7 +584,7 @@
             "message": {
                 "default": "じゃあ、りんねちゃん、りえおねえさん。\nよろしくおねがいします！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_039.mp3"
         },
         {
             "index": 40,
@@ -599,7 +599,7 @@
             "message": {
                 "default": "よろしくおねがいします！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_040.mp3"
         },
         {
             "index": 41,
@@ -629,7 +629,7 @@
             "message": {
                 "default": "りんねちゃん！　りえおねえさん！\nきょうはありがとうございました！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_042.mp3"
         },
         {
             "index": 43,
@@ -644,7 +644,7 @@
             "message": {
                 "default": "またとってねー！　じゃあねー！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_3/card_4150008_3_043.mp3"
         },
         {
             "index": 44,

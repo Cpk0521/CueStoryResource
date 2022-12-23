@@ -89,7 +89,7 @@
             "message": {
                 "default": "コホン！　九条さん？"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_3/card_4080009_3_006.mp3"
         },
         {
             "index": 7,
@@ -134,7 +134,7 @@
             "message": {
                 "default": "はい、皆さん、お静かに。\nそれでは、前回の続き。72ページから……。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_3/card_4080009_3_009.mp3"
         },
         {
             "index": 10,
@@ -149,7 +149,7 @@
             "message": {
                 "default": "であるからして……。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_3/card_4080009_3_010.mp3"
         },
         {
             "index": 11,
@@ -194,7 +194,7 @@
             "message": {
                 "default": "じゃあ、ここを……。九条さんにやってもらいましょうか。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_3/card_4080009_3_013.mp3"
         },
         {
             "index": 14,

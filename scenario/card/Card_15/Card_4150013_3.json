@@ -14,7 +14,7 @@
             "message": {
                 "default": "あ、あのお花、かわいい。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_001.mp3"
         },
         {
             "index": 2,
@@ -44,7 +44,7 @@
             "message": {
                 "default": "あ、ネコちゃん。\nニャオー。こっち向いて？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_003.mp3"
         },
         {
             "index": 4,
@@ -74,7 +74,7 @@
             "message": {
                 "default": "うん。カナ、ネコちゃん好き！\n次は……。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_005.mp3"
         },
         {
             "index": 6,
@@ -89,7 +89,7 @@
             "message": {
                 "default": "しんごうき！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_006.mp3"
         },
         {
             "index": 7,
@@ -119,7 +119,7 @@
             "message": {
                 "default": "んー……。\nそうでもない。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_008.mp3"
         },
         {
             "index": 9,
@@ -179,7 +179,7 @@
             "message": {
                 "default": "うん。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_012.mp3"
         },
         {
             "index": 13,
@@ -194,7 +194,7 @@
             "message": {
                 "default": "あ、お蕎麦屋さんのおじさんだ！\nおじさん、おしゃしんとってもいい？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_013.mp3"
         },
         {
             "index": 14,
@@ -224,7 +224,7 @@
             "message": {
                 "default": "うん。\n楽しかった！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_015.mp3"
         },
         {
             "index": 16,
@@ -254,7 +254,7 @@
             "message": {
                 "default": "ねえ、りんねちゃん、\nカナのとったおしゃしん、見せて。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_017.mp3"
         },
         {
             "index": 18,
@@ -284,7 +284,7 @@
             "message": {
                 "default": "うん……。\nでも、ちいさくてよくわかんない。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_019.mp3"
         },
         {
             "index": 20,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "うん。待ってる！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_022.mp3"
         },
         {
             "index": 23,
@@ -359,7 +359,7 @@
             "message": {
                 "default": "「おもいで」？　\n「おもいで」ってなーに？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_024.mp3"
         },
         {
             "index": 25,
@@ -419,7 +419,7 @@
             "message": {
                 "default": "めじるし？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_028.mp3"
         },
         {
             "index": 29,
@@ -449,7 +449,7 @@
             "message": {
                 "default": "うーん、よくわかんない。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_030.mp3"
         },
         {
             "index": 31,
@@ -524,7 +524,7 @@
             "message": {
                 "default": "そうなの？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_035.mp3"
         },
         {
             "index": 36,
@@ -584,7 +584,7 @@
             "message": {
                 "default": "うーん、ちょっと難しかった。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_039.mp3"
         },
         {
             "index": 40,
@@ -644,7 +644,7 @@
             "message": {
                 "default": "うん。\nおばあちゃんちでお母さん待ってるから。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_043.mp3"
         },
         {
             "index": 44,
@@ -674,7 +674,7 @@
             "message": {
                 "default": "うん。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_045.mp3"
         },
         {
             "index": 46,
@@ -689,7 +689,7 @@
             "message": {
                 "default": "ねえ、りんねちゃん。\nおてて、繋いで？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_046.mp3"
         },
         {
             "index": 47,
@@ -719,7 +719,7 @@
             "message": {
                 "default": "えへへー。りんねちゃんだーい好き。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_3/card_4150013_3_048.mp3"
         }
     ],
     "Language": [],

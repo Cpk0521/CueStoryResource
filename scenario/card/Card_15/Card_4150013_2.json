@@ -14,7 +14,7 @@
             "message": {
                 "default": "あのねー。あそこが、\nおばあちゃんがよく連れて行ってくれるあんみつ屋さんでね。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_001.mp3"
         },
         {
             "index": 2,
@@ -44,7 +44,7 @@
             "message": {
                 "default": "で、あっちは、\nおじいちゃんがよく連れて行ってくれるお蕎麦屋さん。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_003.mp3"
         },
         {
             "index": 4,
@@ -74,7 +74,7 @@
             "message": {
                 "default": "おじいちゃんはね、\nいつもお昼御飯からお蕎麦屋さんでお酒飲むんだよ。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_005.mp3"
         },
         {
             "index": 6,
@@ -104,7 +104,7 @@
             "message": {
                 "default": "うん。\nそれでね、お母さんがいつも怒ってるの。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_007.mp3"
         },
         {
             "index": 8,
@@ -134,7 +134,7 @@
             "message": {
                 "default": "うん。大好きだよ！\nだって、とっっっっってもやさしいから！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_009.mp3"
         },
         {
             "index": 10,
@@ -164,7 +164,7 @@
             "message": {
                 "default": "うん。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_011.mp3"
         },
         {
             "index": 12,
@@ -179,7 +179,7 @@
             "message": {
                 "default": "……あ、あのね、りんねちゃん。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_012.mp3"
         },
         {
             "index": 13,
@@ -209,7 +209,7 @@
             "message": {
                 "default": "カナ、りんねちゃんも好きだよ。\nだって、いつもやさしいから。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_014.mp3"
         },
         {
             "index": 15,
@@ -239,7 +239,7 @@
             "message": {
                 "default": "えへへ。あ、あっちは駄菓子屋さん。\n駄菓子屋さんは1人で行ってもいいところ。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_016.mp3"
         },
         {
             "index": 17,
@@ -254,7 +254,7 @@
             "message": {
                 "default": "ねえ、りんねちゃん、駄菓子屋さん行ってみる？\nカナ、今から行くとこだったの。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_017.mp3"
         },
         {
             "index": 18,
@@ -284,7 +284,7 @@
             "message": {
                 "default": "あのねー。これがガムでしょ。\nそしてこれがチョコでしょ。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_019.mp3"
         },
         {
             "index": 20,
@@ -314,7 +314,7 @@
             "message": {
                 "default": "このグルグルしたのはゼリーでしょ。\nこれはヨーグルト味の粉。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_021.mp3"
         },
         {
             "index": 22,
@@ -344,7 +344,7 @@
             "message": {
                 "default": "うん。お母さんが、ちょうどさっき、\nこれでお菓子買ってきなさいって。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_023.mp3"
         },
         {
             "index": 24,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "お母さんがくれたお駄賃で買える分だけ買って良くて、\nそれ以上はダメなの。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_025.mp3"
         },
         {
             "index": 26,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "うん。お母さんのルールまもんないと……。\nすっごく怖いから！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_027.mp3"
         },
         {
             "index": 28,
@@ -434,7 +434,7 @@
             "message": {
                 "default": "えへへ。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_029.mp3"
         },
         {
             "index": 30,
@@ -479,7 +479,7 @@
             "message": {
                 "default": "りんねちゃん今日もおしゃしん、とってるの？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_032.mp3"
         },
         {
             "index": 33,
@@ -509,7 +509,7 @@
             "message": {
                 "default": "おしゃしんをとりながら……？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_034.mp3"
         },
         {
             "index": 35,
@@ -554,7 +554,7 @@
             "message": {
                 "default": "……ねえりんねちゃん。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_037.mp3"
         },
         {
             "index": 38,
@@ -584,7 +584,7 @@
             "message": {
                 "default": "あのね……。\nカナもおしゃしんとってみたい。"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_039.mp3"
         },
         {
             "index": 40,
@@ -614,7 +614,7 @@
             "message": {
                 "default": "うん。いいの？"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150013_2/card_4150013_2_041.mp3"
         },
         {
             "index": 42,

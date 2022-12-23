@@ -157,7 +157,7 @@
             "message": {
                 "default": "鳴？　起きてる？"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160012_1/card_4160012_1_010.mp3"
         },
         {
             "index": 12,

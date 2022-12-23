@@ -119,7 +119,7 @@
             "message": {
                 "default": "はい、悠希ちゃんにも1個あげる。"
             },
-            "voice": ""
+            "voice": "card/Card_05/Card_4050016_2/card_4050016_2_008.mp3"
         },
         {
             "index": 9,
@@ -194,7 +194,7 @@
             "message": {
                 "default": "悠希ちゃん。\nみんなに配ってるから、悠希ちゃんにもこれ、どうぞ。"
             },
-            "voice": ""
+            "voice": "card/Card_05/Card_4050016_2/card_4050016_2_013.mp3"
         },
         {
             "index": 14,

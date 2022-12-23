@@ -389,7 +389,7 @@
             "message": {
                 "default": "おお、待ってたよ悠希ちゃん！\n今日はこれって決めてたから。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080017_1/card_4080017_1_026.mp3"
         },
         {
             "index": 27,
@@ -419,7 +419,7 @@
             "message": {
                 "default": "悠希ちゃーん、こっちはまだー？"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080017_1/card_4080017_1_028.mp3"
         },
         {
             "index": 29,
@@ -449,7 +449,7 @@
             "message": {
                 "default": "悠希ちゃーん。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080017_1/card_4080017_1_030.mp3"
         },
         {
             "index": 31,

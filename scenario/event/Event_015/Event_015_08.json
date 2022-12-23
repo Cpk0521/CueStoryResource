@@ -224,7 +224,7 @@
             "message": {
                 "default": "ほら、美晴。もう泣かないの。\n飛んでった風船はもう二度と帰ってこないんだから。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_015.mp3"
         },
         {
             "index": 16,
@@ -299,7 +299,7 @@
             "message": {
                 "default": "うえっうえっ、ヒック。\nだって、せっかくお兄ちゃんが、買ってくれ、たのに、ヒック。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_020.mp3"
         },
         {
             "index": 21,
@@ -314,7 +314,7 @@
             "message": {
                 "default": "お母さんがまた同じの買ってきてあげるから。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_021.mp3"
         },
         {
             "index": 22,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "ダメ！　あの風船じゃなきゃ、ダメなの。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_022.mp3"
         },
         {
             "index": 23,
@@ -344,7 +344,7 @@
             "message": {
                 "default": "もう……、困ったわね。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_023.mp3"
         },
         {
             "index": 24,
@@ -359,7 +359,7 @@
             "message": {
                 "default": "……取ってきてやるよ。あれがいいんだろ？"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_024.mp3"
         },
         {
             "index": 25,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "お、お兄ちゃん。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_025.mp3"
         },
         {
             "index": 26,
@@ -389,7 +389,7 @@
             "message": {
                 "default": "もう、姿も見えないのよ。探しようがないじゃない。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_026.mp3"
         },
         {
             "index": 27,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "それでも、取ってきてやるから。美晴は待ってろ。"
             },
-            "voice": ""
+            "voice": "event/Event_015/Event_015_08/event_015_08_027.mp3"
         },
         {
             "index": 28,

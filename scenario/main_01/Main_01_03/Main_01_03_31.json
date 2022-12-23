@@ -299,7 +299,7 @@
             "message": {
                 "default": "ほら、美晴。もう泣かないの。\n飛んでった風船はもう二度と帰ってこないんだから。"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_03/Main_01_03_31/main_01_03_31_019.mp3"
         },
         {
             "index": 21,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "おかあさんがまた同じの買ってきてあげるから。"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_03/Main_01_03_31/main_01_03_31_021.mp3"
         },
         {
             "index": 23,
@@ -359,7 +359,7 @@
             "message": {
                 "default": "もう……、困ったわね。"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_03/Main_01_03_31/main_01_03_31_023.mp3"
         },
         {
             "index": 25,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "……取ってきてやるよ。\nあれがいいんだろ？"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_03/Main_01_03_31/main_01_03_31_024.mp3"
         },
         {
             "index": 26,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "もう、姿も見えないのよ。\n探しようがないじゃない。"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_03/Main_01_03_31/main_01_03_31_026.mp3"
         },
         {
             "index": 28,
@@ -419,7 +419,7 @@
             "message": {
                 "default": "それでも、取ってきてやるから。\n美晴は待ってろ。"
             },
-            "voice": ""
+            "voice": "main_01/Main_01_03/Main_01_03_31/main_01_03_31_027.mp3"
         },
         {
             "index": 29,

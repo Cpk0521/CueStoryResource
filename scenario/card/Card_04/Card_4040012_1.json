@@ -134,7 +134,7 @@
             "message": {
                 "default": "いいですね。\nそのまま何枚かもらいますね。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_1/card_4040012_1_009.mp3"
         },
         {
             "index": 10,
@@ -899,7 +899,7 @@
             "message": {
                 "default": "ここにいらしたんですか？\nもうすぐ式が始まりますよ！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_1/card_4040012_1_060.mp3"
         },
         {
             "index": 61,
@@ -929,7 +929,7 @@
             "message": {
                 "default": "さあ、皆さんがお待ちです。\nこちらへ！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040012_1/card_4040012_1_062.mp3"
         },
         {
             "index": 63,

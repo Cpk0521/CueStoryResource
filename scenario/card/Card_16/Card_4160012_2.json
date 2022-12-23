@@ -134,7 +134,7 @@
             "message": {
                 "default": "鳴。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160012_2/card_4160012_2_009.mp3"
         },
         {
             "index": 10,
@@ -299,7 +299,7 @@
             "message": {
                 "default": "鳴！"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160012_2/card_4160012_2_020.mp3"
         },
         {
             "index": 21,
@@ -464,7 +464,7 @@
             "message": {
                 "default": "鳴……。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160012_2/card_4160012_2_031.mp3"
         },
         {
             "index": 32,

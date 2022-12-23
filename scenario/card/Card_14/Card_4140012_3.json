@@ -524,7 +524,7 @@
             "message": {
                 "default": "君のお母さんもそうやって、\n文字でいっぱいメモを取っていたよ。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_4140012_3/card_4140012_3_035.mp3"
         },
         {
             "index": 36,
@@ -539,7 +539,7 @@
             "message": {
                 "default": "僕に小言を言われた次の日は特に。\nやっぱり血は争えないね。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_4140012_3/card_4140012_3_036.mp3"
         },
         {
             "index": 37,
@@ -569,7 +569,7 @@
             "message": {
                 "default": "だからまあ、きっと君もいいところまで行けるんじゃない？"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_4140012_3/card_4140012_3_038.mp3"
         },
         {
             "index": 39,
@@ -584,7 +584,7 @@
             "message": {
                 "default": "もちろん君次第だけどね。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_4140012_3/card_4140012_3_039.mp3"
         },
         {
             "index": 40,

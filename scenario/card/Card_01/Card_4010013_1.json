@@ -14,7 +14,7 @@
             "message": {
                 "default": "陽菜……。\n陽菜…………。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_001.mp3"
         },
         {
             "index": 2,
@@ -44,7 +44,7 @@
             "message": {
                 "default": "陽菜。ほら、起きて。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_003.mp3"
         },
         {
             "index": 4,
@@ -74,7 +74,7 @@
             "message": {
                 "default": "ふふ。よく寝てたわね。\nさ、もうすぐ着くわよ。忘れ物に気を付けて。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_005.mp3"
         },
         {
             "index": 6,
@@ -104,7 +104,7 @@
             "message": {
                 "default": "ほら、陽菜、灯台まで行ってみましょ？"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_007.mp3"
         },
         {
             "index": 8,
@@ -164,7 +164,7 @@
             "message": {
                 "default": "さっき調べたんだけど、\n近くにはひまわり畑もあるみたいね。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_011.mp3"
         },
         {
             "index": 12,
@@ -209,7 +209,7 @@
             "message": {
                 "default": "陽菜？\n聞いてるの？　陽菜。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_014.mp3"
         },
         {
             "index": 15,
@@ -239,7 +239,7 @@
             "message": {
                 "default": "…………。\n…………ねえ陽菜。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_016.mp3"
         },
         {
             "index": 17,
@@ -269,7 +269,7 @@
             "message": {
                 "default": "私とお父さんは灯台の方へ行ってくるから、\n陽菜は少し、1人で散歩でもしてきたら？"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_018.mp3"
         },
         {
             "index": 19,
@@ -299,7 +299,7 @@
             "message": {
                 "default": "お母さん、今の陽菜に必要なのはそういう時間だと思うの。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_020.mp3"
         },
         {
             "index": 21,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "それじゃ、また後で会いましょ。\nゆっくり景色を眺めていらっしゃい。"
             },
-            "voice": ""
+            "voice": "card/Card_01/Card_4010013_1/card_4010013_1_022.mp3"
         },
         {
             "index": 23,

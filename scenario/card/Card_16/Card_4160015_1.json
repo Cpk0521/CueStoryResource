@@ -164,7 +164,7 @@
             "message": {
                 "default": "はい、おまたせいたしました。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_011.mp3"
         },
         {
             "index": 12,
@@ -179,7 +179,7 @@
             "message": {
                 "default": "そちらの元気のいいお嬢さんにはミックスジュース。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_012.mp3"
         },
         {
             "index": 13,
@@ -209,7 +209,7 @@
             "message": {
                 "default": "双子みたいなお2人には、アールグレイとダージリン。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_014.mp3"
         },
         {
             "index": 15,
@@ -254,7 +254,7 @@
             "message": {
                 "default": "そして眼鏡のお嬢さんには珈琲を……。\nあら？　あなた……。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_017.mp3"
         },
         {
             "index": 18,
@@ -284,7 +284,7 @@
             "message": {
                 "default": "あっと、ううん。\nちょっと知り合いに似てたものだから、少し驚いて。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_019.mp3"
         },
         {
             "index": 20,
@@ -299,7 +299,7 @@
             "message": {
                 "default": "とても素敵な知り合いなのだけど、でも勘違いみたい。\nあなたがあまりに素敵だったから。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_020.mp3"
         },
         {
             "index": 21,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "気を悪くしたかしら。ごめんなさいね。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_022.mp3"
         },
         {
             "index": 23,
@@ -419,7 +419,7 @@
             "message": {
                 "default": "ふふっ。ありがとう。\nそれじゃごゆっくり。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_028.mp3"
         },
         {
             "index": 29,
@@ -494,7 +494,7 @@
             "message": {
                 "default": "ふふっ。\nありがとう、お嬢さんたち。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_033.mp3"
         },
         {
             "index": 34,
@@ -524,7 +524,7 @@
             "message": {
                 "default": "そうね。お嬢さんがたの声も、\nなかなかいい発声してるからかしら。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_035.mp3"
         },
         {
             "index": 36,
@@ -554,7 +554,7 @@
             "message": {
                 "default": "いいのよ。\n今は他にお客さんもいないしね。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_037.mp3"
         },
         {
             "index": 38,
@@ -569,7 +569,7 @@
             "message": {
                 "default": "それよりも、気に入っていただけたなら、\nこれからもぜひご贔屓に。美しいお嬢さんたち。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160015_1/card_4160015_1_038.mp3"
         },
         {
             "index": 39,

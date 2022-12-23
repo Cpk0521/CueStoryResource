@@ -299,7 +299,7 @@
             "message": {
                 "default": "はじめまして。あいりの母です。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_020.mp3"
         },
         {
             "index": 21,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "ふふ、あなたが柚葉ちゃんね。\nあいりから色々と聞いてる通り、本当に明るい子ね。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_022.mp3"
         },
         {
             "index": 23,
@@ -359,7 +359,7 @@
             "message": {
                 "default": "えぇ。学年は違うけど、よく一緒にいて、\nよく元気を貰ってるって。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_024.mp3"
         },
         {
             "index": 25,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "柚葉ちゃんだけじゃなくて、\n悠希ちゃん、千紗ちゃんも、とても大事なお友達って聞いてるわ。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_025.mp3"
         },
         {
             "index": 26,
@@ -419,7 +419,7 @@
             "message": {
                 "default": "ふふ、そうね。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_028.mp3"
         },
         {
             "index": 29,
@@ -524,7 +524,7 @@
             "message": {
                 "default": "あら、どちらもとっても素敵なお弁当ね。\n可愛らしいわ。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_035.mp3"
         },
         {
             "index": 36,
@@ -539,7 +539,7 @@
             "message": {
                 "default": "見た目ももちろん美味しそうだけど、\nおかずもバランスよく入ってる……。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_036.mp3"
         },
         {
             "index": 37,
@@ -554,7 +554,7 @@
             "message": {
                 "default": "よく考えられたお弁当ね。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_037.mp3"
         },
         {
             "index": 38,
@@ -584,7 +584,7 @@
             "message": {
                 "default": "そうなのね……。ふふ、こんな素敵なお弁当、\n毎日食べられるだなんて。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_039.mp3"
         },
         {
             "index": 40,
@@ -599,7 +599,7 @@
             "message": {
                 "default": "2人とも、とても幸せ者ね。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_040.mp3"
         },
         {
             "index": 41,
@@ -704,7 +704,7 @@
             "message": {
                 "default": "柚葉ちゃんに会えて良かったわ。\nこれからも、あいりのこと、よろしくお願いしますね。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_047.mp3"
         },
         {
             "index": 48,
@@ -794,7 +794,7 @@
             "message": {
                 "default": "今日は授業参観日です。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_053.mp3"
         },
         {
             "index": 54,
@@ -809,7 +809,7 @@
             "message": {
                 "default": "皆さんのご両親がいらしてますが、\n授業はいつも通り、進めていきますからね。"
             },
-            "voice": ""
+            "voice": "card/Card_08/Card_4080009_2/card_4080009_2_054.mp3"
         },
         {
             "index": 55,

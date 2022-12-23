@@ -82,7 +82,7 @@
             "message": {
                 "default": "お疲れ様。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_005.mp3"
         },
         {
             "index": 7,
@@ -112,7 +112,7 @@
             "message": {
                 "default": "ま、そう落ち込まないの。\n演技が上手くいかない時なんて、誰にでもあるんだから。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_007.mp3"
         },
         {
             "index": 9,
@@ -142,7 +142,7 @@
             "message": {
                 "default": "はい、これ。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_009.mp3"
         },
         {
             "index": 11,
@@ -172,7 +172,7 @@
             "message": {
                 "default": "あれ？　見てわかんない？\nそれとも、ミルクティーのほうがよかったとか？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_011.mp3"
         },
         {
             "index": 13,
@@ -202,7 +202,7 @@
             "message": {
                 "default": "温かいものでも飲んで、少し落ち着いたらってこと。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_013.mp3"
         },
         {
             "index": 15,
@@ -217,7 +217,7 @@
             "message": {
                 "default": "今日の失敗は明日取り返せばいい。\n宮路ならそれが出来るだろ？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_014.mp3"
         },
         {
             "index": 16,
@@ -247,7 +247,7 @@
             "message": {
                 "default": "器用な子どもほど、いつでも上手くこなしたがって、\n失敗に慣れない子が多い気がするな。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_016.mp3"
         },
         {
             "index": 18,
@@ -262,7 +262,7 @@
             "message": {
                 "default": "周りの大人の目ばかりを気にして、ね。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_017.mp3"
         },
         {
             "index": 19,
@@ -292,7 +292,7 @@
             "message": {
                 "default": "いや、宮路はもう子どもじゃないだろ？\nだからほら……、コーヒーでもいいかなって。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_019.mp3"
         },
         {
             "index": 21,
@@ -322,7 +322,7 @@
             "message": {
                 "default": "はいはい。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_021.mp3"
         },
         {
             "index": 23,
@@ -352,7 +352,7 @@
             "message": {
                 "default": "あはは。やっぱり、コーヒーはまだ早かったかな？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_023.mp3"
         },
         {
             "index": 25,
@@ -390,7 +390,7 @@
             "message": {
                 "default": "え？　声優になる？　本気で言ってる？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_025.mp3"
         },
         {
             "index": 28,
@@ -435,7 +435,7 @@
             "message": {
                 "default": "親御さんはなんて？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_028.mp3"
         },
         {
             "index": 31,
@@ -465,7 +465,7 @@
             "message": {
                 "default": "そうか……、もったいないな。\nうちの東京事務所で続けるわけにはいかないのか？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_030.mp3"
         },
         {
             "index": 33,
@@ -510,7 +510,7 @@
             "message": {
                 "default": "そうだけど、女優を続けながらでも良いんじゃないのか？\n宮路なら……。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_033.mp3"
         },
         {
             "index": 36,
@@ -540,7 +540,7 @@
             "message": {
                 "default": "そう。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_035.mp3"
         },
         {
             "index": 38,
@@ -570,7 +570,7 @@
             "message": {
                 "default": "ん？　何？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_037.mp3"
         },
         {
             "index": 40,
@@ -600,7 +600,7 @@
             "message": {
                 "default": "……。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_039.mp3"
         },
         {
             "index": 42,
@@ -615,7 +615,7 @@
             "message": {
                 "default": "あれ？　宮路？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_040.mp3"
         },
         {
             "index": 43,
@@ -645,7 +645,7 @@
             "message": {
                 "default": "奇遇だね……、ってこともないか。スタジオの目の前だもんな、ここ。\n仕事の前の小休憩ってとこかな？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_042.mp3"
         },
         {
             "index": 45,
@@ -675,7 +675,7 @@
             "message": {
                 "default": "同じだね。私もちょっと早く着いちゃって。\nここの席、いいかな？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_044.mp3"
         },
         {
             "index": 47,
@@ -705,7 +705,7 @@
             "message": {
                 "default": "あ、すいません。ホットコーヒー1つ。\n宮路は？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_046.mp3"
         },
         {
             "index": 49,
@@ -735,7 +735,7 @@
             "message": {
                 "default": "へぇ……、コーヒーか。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_048.mp3"
         },
         {
             "index": 51,
@@ -765,7 +765,7 @@
             "message": {
                 "default": "いや、ごめん。なんでもない。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_050.mp3"
         },
         {
             "index": 53,
@@ -795,7 +795,7 @@
             "message": {
                 "default": "で、宮路、最近はどうなの？\n念願の声優事務所に入って、充実してる？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_052.mp3"
         },
         {
             "index": 55,
@@ -825,7 +825,7 @@
             "message": {
                 "default": "うん。まずは声優デビューおめでとう。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_054.mp3"
         },
         {
             "index": 57,
@@ -840,7 +840,7 @@
             "message": {
                 "default": "うちの事務所を辞めてまで選んだ道だし、\nデビューくらいしてもらわないと。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_055.mp3"
         },
         {
             "index": 58,
@@ -870,7 +870,7 @@
             "message": {
                 "default": "あはは。まぁ、仕返しはこれくらいにして。\nで、ぶっちゃけた話、今……、満足の行く仕事は出来てるのか？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_057.mp3"
         },
         {
             "index": 60,
@@ -900,7 +900,7 @@
             "message": {
                 "default": "なるほど……、ね。　"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_059.mp3"
         },
         {
             "index": 62,
@@ -930,7 +930,7 @@
             "message": {
                 "default": "あはは。違う違う。\nあのな、宮路……。"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_061.mp3"
         },
         {
             "index": 64,
@@ -960,7 +960,7 @@
             "message": {
                 "default": "うちに戻って来ないか？"
             },
-            "voice": ""
+            "voice": "card/Card_11/Card_4110009_2/card_4110009_2_063.mp3"
         },
         {
             "index": 66,

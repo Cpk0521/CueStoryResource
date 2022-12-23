@@ -599,7 +599,7 @@
             "message": {
                 "default": "あの、月居先輩！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_040.mp3"
         },
         {
             "index": 41,
@@ -629,7 +629,7 @@
             "message": {
                 "default": "今日は突然呼び出してすみません！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_042.mp3"
         },
         {
             "index": 43,
@@ -659,7 +659,7 @@
             "message": {
                 "default": "あの、これ、受け取ってください。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_044.mp3"
         },
         {
             "index": 45,
@@ -689,7 +689,7 @@
             "message": {
                 "default": "私、軽音楽部1年の平山って言います。\nあ、えっと、その、ギター弾きながら歌ったりしてます。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_046.mp3"
         },
         {
             "index": 47,
@@ -719,7 +719,7 @@
             "message": {
                 "default": "私、今度ライブやる事になったんですけど、\nそれが、ライブハウスでやるの初めてで……。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_048.mp3"
         },
         {
             "index": 49,
@@ -734,7 +734,7 @@
             "message": {
                 "default": "それで……、良かったら月居先輩に来てほしいなって思って。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_049.mp3"
         },
         {
             "index": 50,
@@ -764,7 +764,7 @@
             "message": {
                 "default": "はい。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_051.mp3"
         },
         {
             "index": 52,
@@ -809,7 +809,7 @@
             "message": {
                 "default": "それは、その……。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_054.mp3"
         },
         {
             "index": 55,
@@ -839,7 +839,7 @@
             "message": {
                 "default": "えっと、つまり……。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_056.mp3"
         },
         {
             "index": 57,
@@ -914,7 +914,7 @@
             "message": {
                 "default": "あ、はい。もちろんです。来れたらでいいですから！\nそれじゃ、私、もう行きます！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_061.mp3"
         },
         {
             "index": 62,
@@ -929,7 +929,7 @@
             "message": {
                 "default": "今日はその……、急に呼び出したのに来てくれて、\nありがとうございました！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_062.mp3"
         },
         {
             "index": 63,
@@ -959,7 +959,7 @@
             "message": {
                 "default": "はい！　来れたらでいいので！　待ってます！"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040016_1/card_4040016_1_064.mp3"
         },
         {
             "index": 65,

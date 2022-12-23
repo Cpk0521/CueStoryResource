@@ -29,7 +29,7 @@
             "message": {
                 "default": "……うん。すごい。正直、驚いた。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_002.mp3"
         },
         {
             "index": 3,
@@ -59,7 +59,7 @@
             "message": {
                 "default": "宇津木さん、本当に未経験？"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_004.mp3"
         },
         {
             "index": 5,
@@ -89,7 +89,7 @@
             "message": {
                 "default": "ふふ。本当に勉強家だね。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_006.mp3"
         },
         {
             "index": 7,
@@ -104,7 +104,7 @@
             "message": {
                 "default": "じゃあ、私は他の花と一緒に、\nイベント会場に届けてくるから。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_007.mp3"
         },
         {
             "index": 8,
@@ -134,7 +134,7 @@
             "message": {
                 "default": "ありがとう。助かるわ。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_009.mp3"
         },
         {
             "index": 10,
@@ -179,7 +179,7 @@
             "message": {
                 "default": "お疲れ様！　お迎えありがとう。\nアレンジメント、すごい評判よかったよ。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_012.mp3"
         },
         {
             "index": 13,
@@ -209,7 +209,7 @@
             "message": {
                 "default": "主催の方が、あの花いいね、って仰ってたのが、\n宇津木さんの花だったよ。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_014.mp3"
         },
         {
             "index": 15,
@@ -239,7 +239,7 @@
             "message": {
                 "default": "うん、よかったね。\nさて、片付けしましょうか。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_016.mp3"
         },
         {
             "index": 17,
@@ -284,7 +284,7 @@
             "message": {
                 "default": "んー、既にいくつか包装して、\n参加関係者にはお渡ししているけど。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_019.mp3"
         },
         {
             "index": 20,
@@ -299,7 +299,7 @@
             "message": {
                 "default": "それでも結構余るから、\nこれは、処分することになってしまうね。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_020.mp3"
         },
         {
             "index": 21,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "そうね。仕方ないんだけどね。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_022.mp3"
         },
         {
             "index": 23,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "うーん……。大体30%くらいかな。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_025.mp3"
         },
         {
             "index": 26,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "あ、じゃあ、せっかくだから、持って帰らない？"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_027.mp3"
         },
         {
             "index": 28,
@@ -434,7 +434,7 @@
             "message": {
                 "default": "宇津木さんがアレンジメントした花。\n初仕事の記念に。ほら。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_029.mp3"
         },
         {
             "index": 30,
@@ -464,7 +464,7 @@
             "message": {
                 "default": "お家で飾ってあげてね。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_031.mp3"
         },
         {
             "index": 32,
@@ -479,7 +479,7 @@
             "message": {
                 "default": "さて、会場は次の準備してるようだし、\n私たちも急いで片付けて、撤収しましょう。"
             },
-            "voice": ""
+            "voice": "card/Card_14/Card_3140009_2/card_3140009_2_032.mp3"
         },
         {
             "index": 33,

@@ -374,7 +374,7 @@
             "message": {
                 "default": "あの……。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040005_2/card_4040005_2_025.mp3"
         },
         {
             "index": 26,
@@ -404,7 +404,7 @@
             "message": {
                 "default": "あなたは、公園で何をしてるんですか……？"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040005_2/card_4040005_2_027.mp3"
         },
         {
             "index": 28,
@@ -434,7 +434,7 @@
             "message": {
                 "default": "振付の確認……？"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040005_2/card_4040005_2_029.mp3"
         },
         {
             "index": 30,
@@ -464,7 +464,7 @@
             "message": {
                 "default": "あら、そう……。頑張って。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040005_2/card_4040005_2_031.mp3"
         },
         {
             "index": 32,
@@ -494,7 +494,7 @@
             "message": {
                 "default": "1つお願いがあるんだけど、いいかしら？"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040005_2/card_4040005_2_033.mp3"
         },
         {
             "index": 34,
@@ -524,7 +524,7 @@
             "message": {
                 "default": "今からここで、ラジオ体操があるんだけど、\n使ってもいいかしら？"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040005_2/card_4040005_2_035.mp3"
         },
         {
             "index": 36,

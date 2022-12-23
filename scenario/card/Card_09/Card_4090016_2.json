@@ -14,7 +14,7 @@
             "message": {
                 "default": "はい。\nでは以上でリハーサルは終了です。"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_001.mp3"
         },
         {
             "index": 2,
@@ -74,7 +74,7 @@
             "message": {
                 "default": "この後オンスケで13時30分にメディアさんの入場開始、"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_005.mp3"
         },
         {
             "index": 6,
@@ -89,7 +89,7 @@
             "message": {
                 "default": "13時45分からメディアさん向けの音声チェックと\nホワイトバランスの確認等を兼ねたブリーフィング……、"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_006.mp3"
         },
         {
             "index": 7,
@@ -104,7 +104,7 @@
             "message": {
                 "default": "14時から本番です。よろしくお願いしまーす。"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_007.mp3"
         },
         {
             "index": 8,
@@ -179,7 +179,7 @@
             "message": {
                 "default": "……それでは、只今よりマスメディア様向けの、\nブリーフィングを始めます。まずは音声の確認……。"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_012.mp3"
         },
         {
             "index": 13,
@@ -284,7 +284,7 @@
             "message": {
                 "default": "以上でマスメディア様向けのブリーフィングは、\n終了とさせていただきます……。"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_019.mp3"
         },
         {
             "index": 20,
@@ -299,7 +299,7 @@
             "message": {
                 "default": "時間まで今しばらくお待ちくださいませ……。"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_020.mp3"
         },
         {
             "index": 21,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "それではオンスケ14時、開始します。\nよろしくお願いします！"
             },
-            "voice": ""
+            "voice": "card/Card_09/Card_4090016_2/card_4090016_2_025.mp3"
         },
         {
             "index": 26,

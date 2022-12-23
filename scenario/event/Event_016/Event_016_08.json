@@ -14,7 +14,7 @@
             "message": {
                 "default": "―君たちはやっぱり自由が似合う―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_08/event_016_08_001.mp3"
         },
         {
             "index": 2,
@@ -29,7 +29,7 @@
             "message": {
                 "default": "―でもそんなこと、とっくに君たちは知ってるんだろうけど―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_08/event_016_08_002.mp3"
         },
         {
             "index": 3,

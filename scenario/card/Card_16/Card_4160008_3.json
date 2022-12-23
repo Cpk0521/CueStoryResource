@@ -599,7 +599,7 @@
             "message": {
                 "default": "お待たせいたしました。まもなく発車いたします。"
             },
-            "voice": ""
+            "voice": "card/Card_16/Card_4160008_3/card_4160008_3_041.mp3"
         },
         {
             "index": 41,

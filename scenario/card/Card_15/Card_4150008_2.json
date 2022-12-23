@@ -734,7 +734,7 @@
             "message": {
                 "default": "……ねちゃーん！　……ねちゃーん！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_2/card_4150008_2_050.mp3"
         },
         {
             "index": 50,
@@ -779,7 +779,7 @@
             "message": {
                 "default": "りんねちゃーん！　りんねちゃーん！"
             },
-            "voice": ""
+            "voice": "card/Card_15/Card_4150008_2/card_4150008_2_053.mp3"
         },
         {
             "index": 53,

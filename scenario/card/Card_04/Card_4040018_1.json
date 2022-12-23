@@ -359,7 +359,7 @@
             "message": {
                 "default": "なあに、あの人たち……。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040018_1/card_4040018_1_024.mp3"
         },
         {
             "index": 25,
@@ -374,7 +374,7 @@
             "message": {
                 "default": "よその学校の生徒じゃない？"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040018_1/card_4040018_1_025.mp3"
         },
         {
             "index": 26,
@@ -389,7 +389,7 @@
             "message": {
                 "default": "やだ……、何の用かしら？　怖い……。"
             },
-            "voice": ""
+            "voice": "card/Card_04/Card_4040018_1/card_4040018_1_026.mp3"
         },
         {
             "index": 27,

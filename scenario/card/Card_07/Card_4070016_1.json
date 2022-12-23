@@ -29,7 +29,7 @@
             "message": {
                 "default": "……クレタ文明は紀元前2000年から……。"
             },
-            "voice": ""
+            "voice": "card/Card_07/Card_4070016_1/card_4070016_1_002.mp3"
         },
         {
             "index": 3,
@@ -59,7 +59,7 @@
             "message": {
                 "default": "……そして、クレタ文明に続く文明が……。"
             },
-            "voice": ""
+            "voice": "card/Card_07/Card_4070016_1/card_4070016_1_004.mp3"
         },
         {
             "index": 5,
@@ -329,7 +329,7 @@
             "message": {
                 "default": "……そして、次のページに書いてある……。"
             },
-            "voice": ""
+            "voice": "card/Card_07/Card_4070016_1/card_4070016_1_022.mp3"
         },
         {
             "index": 23,
@@ -359,7 +359,7 @@
             "message": {
                 "default": "……恵庭さん？"
             },
-            "voice": ""
+            "voice": "card/Card_07/Card_4070016_1/card_4070016_1_024.mp3"
         },
         {
             "index": 25,
@@ -389,7 +389,7 @@
             "message": {
                 "default": "あなたがボヤっとしてるなんて、めずらしいわね。"
             },
-            "voice": ""
+            "voice": "card/Card_07/Card_4070016_1/card_4070016_1_026.mp3"
         },
         {
             "index": 27,
@@ -419,7 +419,7 @@
             "message": {
                 "default": "まぁ、いいわ。で、次のページ。トロイア文明とは……。"
             },
-            "voice": ""
+            "voice": "card/Card_07/Card_4070016_1/card_4070016_1_028.mp3"
         },
         {
             "index": 29,

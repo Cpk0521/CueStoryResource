@@ -14,7 +14,7 @@
             "message": {
                 "default": "―あの人たちは今、何をしてるだろうか―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_02/event_016_02_001.mp3"
         },
         {
             "index": 2,
@@ -29,7 +29,7 @@
             "message": {
                 "default": "―僕の命の恩人、とても素敵な人たち―"
             },
-            "voice": ""
+            "voice": "event/Event_016/Event_016_02/event_016_02_002.mp3"
         },
         {
             "index": 3,

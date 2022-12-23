@@ -29,7 +29,7 @@
             "message": {
                 "default": "ニャウン"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_4030010_3/card_4030010_3_002.mp3"
         },
         {
             "index": 3,
@@ -104,7 +104,7 @@
             "message": {
                 "default": "ニャーオ？"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_4030010_3/card_4030010_3_007.mp3"
         },
         {
             "index": 8,
@@ -554,7 +554,7 @@
             "message": {
                 "default": "ニャー"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_4030010_3/card_4030010_3_037.mp3"
         },
         {
             "index": 38,
@@ -599,7 +599,7 @@
             "message": {
                 "default": "ニャーオ？"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_4030010_3/card_4030010_3_040.mp3"
         },
         {
             "index": 41,
@@ -659,7 +659,7 @@
             "message": {
                 "default": "ニャー"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_4030010_3/card_4030010_3_044.mp3"
         },
         {
             "index": 45,
@@ -689,7 +689,7 @@
             "message": {
                 "default": "ニャオン"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_4030010_3/card_4030010_3_046.mp3"
         },
         {
             "index": 47,
@@ -734,7 +734,7 @@
             "message": {
                 "default": "ニャー"
             },
-            "voice": ""
+            "voice": "card/Card_03/Card_4030010_3/card_4030010_3_049.mp3"
         }
     ],
     "Language": [],
