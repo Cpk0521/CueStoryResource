@@ -1,5 +1,8 @@
 {
     "Txt_Name": "LoginBonus_00011",
+    "Title": {
+        "default": "？？？"
+    },
     "Logs": [
         {
             "index": 1,

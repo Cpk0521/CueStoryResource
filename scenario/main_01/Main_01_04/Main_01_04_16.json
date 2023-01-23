@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_04_16",
+    "Title": {
+        "default": "光"
+    },
     "Logs": [
         {
             "index": 1,
@@ -520,7 +523,10 @@
                 16
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "丸山利恵",
+                    "遠見鳴"
+                ]
             },
             "message": {
                 "default": "おいしくな～れ！\nきゅんきゅんもえー！"

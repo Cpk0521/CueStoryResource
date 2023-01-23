@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_3060011_2",
+    "Title": {
+        "default": "この手に恵みを -2-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -911,7 +914,11 @@
                 5
             ],
             "name": {
-                "default": "3人"
+                "default": [
+                    "九条柚葉",
+                    "恵庭あいり",
+                    "天童悠希"
+                ]
             },
             "message": {
                 "default": "はーい！"

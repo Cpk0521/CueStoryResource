@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_01_15",
+    "Title": {
+        "default": "花の向く先はどっち？"
+    },
     "Logs": [
         {
             "index": 1,

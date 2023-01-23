@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_005_11",
+    "Title": {
+        "default": "トッケン -11-"
+    },
     "Logs": [
         {
             "index": 1,

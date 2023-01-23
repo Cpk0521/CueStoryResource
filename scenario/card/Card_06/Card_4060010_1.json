@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_4060010_1",
+    "Title": {
+        "default": "今日は明日の思い出 -1-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -730,7 +733,10 @@
                 5
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "九条柚葉",
+                    "天童悠希"
+                ]
             },
             "message": {
                 "default": "はーい！"

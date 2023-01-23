@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_02_01",
+    "Title": {
+        "default": "心の鎧を脱いで"
+    },
     "Logs": [
         {
             "index": 1,

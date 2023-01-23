@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_016_01",
+    "Title": {
+        "default": "グレイゼファー -1-"
+    },
     "Logs": [
         {
             "index": 1,

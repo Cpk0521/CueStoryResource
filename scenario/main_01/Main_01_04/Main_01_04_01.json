@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_04_01",
+    "Title": {
+        "default": "夜がやってくる"
+    },
     "Logs": [
         {
             "index": 1,

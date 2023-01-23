@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_4060008_3",
+    "Title": {
+        "default": "小さな当たり前と大きな幸せ -3-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -581,7 +584,11 @@
                 8
             ],
             "name": {
-                "default": "3人"
+                "default": [
+                    "天童悠希",
+                    "恵庭あいり",
+                    "九条柚葉"
+                ]
             },
             "message": {
                 "default": "はーい！"

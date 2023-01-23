@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_08_14",
+    "Title": {
+        "default": "oneday in the snow"
+    },
     "Logs": [
         {
             "index": 1,
@@ -522,7 +525,12 @@
                 14
             ],
             "name": {
-                "default": "4人"
+                "default": [
+                    "鹿野志穂",
+                    "恵庭あいり",
+                    "神室絢",
+                    "宇津木聡里"
+                ]
             },
             "message": {
                 "default": "はい、それは……。"

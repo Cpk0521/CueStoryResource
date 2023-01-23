@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_00_03",
+    "Title": {
+        "default": "Mission：声優のタマゴをスカウトせよ"
+    },
     "Logs": [
         {
             "index": 1,

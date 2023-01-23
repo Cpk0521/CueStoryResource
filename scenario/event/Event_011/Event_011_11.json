@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_011_11",
+    "Title": {
+        "default": "O.L. -11-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -356,7 +359,11 @@
                 7
             ],
             "name": {
-                "default": "3人"
+                "default": [
+                    "九条柚葉",
+                    "天童悠希",
+                    "恵庭あいり"
+                ]
             },
             "message": {
                 "default": "はーい！　"

@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_05_01",
+    "Title": {
+        "default": "青い空の憂鬱"
+    },
     "Logs": [
         {
             "index": 1,

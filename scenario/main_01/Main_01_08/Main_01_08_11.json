@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_08_11",
+    "Title": {
+        "default": "明星のしらせ"
+    },
     "Logs": [
         {
             "index": 1,

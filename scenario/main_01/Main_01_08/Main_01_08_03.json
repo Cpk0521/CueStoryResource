@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_08_03",
+    "Title": {
+        "default": "冬のミッション"
+    },
     "Logs": [
         {
             "index": 1,

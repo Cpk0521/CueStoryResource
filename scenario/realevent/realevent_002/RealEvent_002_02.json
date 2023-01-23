@@ -1,5 +1,8 @@
 {
     "Txt_Name": "RealEvent_002_02",
+    "Title": {
+        "default": "？？？"
+    },
     "Logs": [
         {
             "index": 1,
@@ -175,7 +178,10 @@
                 13
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "六石陽菜",
+                    "丸山利恵"
+                ]
             },
             "message": {
                 "default": "それでは、行ってきます！　"

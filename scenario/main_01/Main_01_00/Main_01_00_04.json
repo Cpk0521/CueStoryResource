@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_00_04",
+    "Title": {
+        "default": "Mission：声優のタマゴを訓練せよ"
+    },
     "Logs": [
         {
             "index": 1,

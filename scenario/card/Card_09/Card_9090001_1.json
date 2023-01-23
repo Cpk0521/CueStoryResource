@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_9090001_1",
+    "Title": {
+        "default": "？？？"
+    },
     "Logs": [
         {
             "index": 1,

@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_01_10",
+    "Title": {
+        "default": "不安な気持ち"
+    },
     "Logs": [
         {
             "index": 1,

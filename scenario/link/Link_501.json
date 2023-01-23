@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Link_501",
+    "Title": {
+        "default": "振り回されがちな人たち"
+    },
     "Logs": [
         {
             "index": 1,
@@ -670,7 +673,10 @@
                 1
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "恵庭あいり",
+                    "六石陽菜"
+                ]
             },
             "message": {
                 "default": "はーい。"

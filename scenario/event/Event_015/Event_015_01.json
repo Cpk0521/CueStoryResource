@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_015_01",
+    "Title": {
+        "default": "夢現の即興曲 -1-"
+    },
     "Logs": [
         {
             "index": 1,

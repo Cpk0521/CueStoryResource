@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_08_08",
+    "Title": {
+        "default": "そして誰もいなくなった"
+    },
     "Logs": [
         {
             "index": 1,

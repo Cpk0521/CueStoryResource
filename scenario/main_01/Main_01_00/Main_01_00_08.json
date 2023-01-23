@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_00_08",
+    "Title": {
+        "default": "はじまりの日"
+    },
     "Logs": [
         {
             "index": 1,

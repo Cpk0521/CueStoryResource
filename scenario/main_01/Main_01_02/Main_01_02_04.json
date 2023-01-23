@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_02_04",
+    "Title": {
+        "default": "どこか気まずいスタート？"
+    },
     "Logs": [
         {
             "index": 1,

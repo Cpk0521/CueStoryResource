@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_01_01",
+    "Title": {
+        "default": "はじめての共同生活！"
+    },
     "Logs": [
         {
             "index": 1,

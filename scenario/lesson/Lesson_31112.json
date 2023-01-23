@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Lesson_31112",
+    "Title": {
+        "default": "O.L. 柚葉編 -3-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -251,7 +254,11 @@
                 7
             ],
             "name": {
-                "default": "3人"
+                "default": [
+                    "九条柚葉",
+                    "天童悠希",
+                    "恵庭あいり"
+                ]
             },
             "message": {
                 "default": "おおー！　"

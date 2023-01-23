@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_1040001_1",
+    "Title": {
+        "default": "月居ほのか"
+    },
     "Logs": [
         {
             "index": 1,

@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_004_03",
+    "Title": {
+        "default": "Airing & Feeling -3-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -27,7 +30,12 @@
                 8
             ],
             "name": {
-                "default": "4人"
+                "default": [
+                    "天童悠希",
+                    "赤川千紗",
+                    "恵庭あいり",
+                    "九条柚葉"
+                ]
             },
             "message": {
                 "default": "こーんにーちはー！！"
@@ -328,7 +336,10 @@
                 6
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "天童悠希",
+                    "赤川千紗"
+                ]
             },
             "message": {
                 "default": "どうも、ありがとうございましたー！"

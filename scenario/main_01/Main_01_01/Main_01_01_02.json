@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_01_02",
+    "Title": {
+        "default": "お部屋拝見！"
+    },
     "Logs": [
         {
             "index": 1,

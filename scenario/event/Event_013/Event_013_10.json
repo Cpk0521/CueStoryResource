@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_013_10",
+    "Title": {
+        "default": "あしバシ -10-"
+    },
     "Logs": [
         {
             "index": 1,

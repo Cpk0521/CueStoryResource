@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_1010001_1",
+    "Title": {
+        "default": "六石陽菜"
+    },
     "Logs": [
         {
             "index": 1,

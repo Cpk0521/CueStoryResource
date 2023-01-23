@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_016_02",
+    "Title": {
+        "default": "グレイゼファー -2-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -536,7 +539,11 @@
                 8
             ],
             "name": {
-                "default": "3人"
+                "default": [
+                    "天童悠希",
+                    "恵庭あいり",
+                    "九条柚葉"
+                ]
             },
             "message": {
                 "default": "はーい。"

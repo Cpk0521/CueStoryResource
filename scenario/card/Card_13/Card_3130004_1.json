@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_3130004_1",
+    "Title": {
+        "default": "賞味期限にご注意を -1-"
+    },
     "Logs": [
         {
             "index": 1,

@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_3070010_1",
+    "Title": {
+        "default": "コネクト -1-"
+    },
     "Logs": [
         {
             "index": 1,

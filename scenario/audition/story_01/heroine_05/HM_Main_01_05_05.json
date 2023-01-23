@@ -1,5 +1,8 @@
 {
     "Txt_Name": "HM_Main_01_05_05",
+    "Title": {
+        "default": "？？？"
+    },
     "Logs": [
         {
             "index": 1,

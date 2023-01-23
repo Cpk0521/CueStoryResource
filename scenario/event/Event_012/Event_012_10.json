@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_012_10",
+    "Title": {
+        "default": "潮騒スナップ -10-"
+    },
     "Logs": [
         {
             "index": 1,

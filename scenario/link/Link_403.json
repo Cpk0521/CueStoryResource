@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Link_403",
+    "Title": {
+        "default": "買いものだいすき！"
+    },
     "Logs": [
         {
             "index": 1,

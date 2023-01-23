@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_3070008_1",
+    "Title": {
+        "default": "ワンデイ・スター -1-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -490,7 +493,10 @@
                 6
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "恵庭あいり",
+                    "赤川千紗"
+                ]
             },
             "message": {
                 "default": "えーー！！"

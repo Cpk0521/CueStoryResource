@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_07_08",
+    "Title": {
+        "default": "お前の想いは受け取った！"
+    },
     "Logs": [
         {
             "index": 1,

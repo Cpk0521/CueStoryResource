@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_04_30",
+    "Title": {
+        "default": "タイムリミット"
+    },
     "Logs": [
         {
             "index": 1,

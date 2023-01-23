@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Link_404",
+    "Title": {
+        "default": "真面目さん"
+    },
     "Logs": [
         {
             "index": 1,

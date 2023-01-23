@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_05_05",
+    "Title": {
+        "default": "ここから本番！"
+    },
     "Logs": [
         {
             "index": 1,

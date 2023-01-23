@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Link_301",
+    "Title": {
+        "default": "いただきます！"
+    },
     "Logs": [
         {
             "index": 1,

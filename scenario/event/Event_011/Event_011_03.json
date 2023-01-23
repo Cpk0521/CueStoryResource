@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_011_03",
+    "Title": {
+        "default": "O.L. -3-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -25,7 +28,10 @@
                 7
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "赤川千紗",
+                    "恵庭あいり"
+                ]
             },
             "message": {
                 "default": "えっ！？　"
@@ -236,7 +242,10 @@
                 7
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "赤川千紗",
+                    "恵庭あいり"
+                ]
             },
             "message": {
                 "default": "ええ！？　"

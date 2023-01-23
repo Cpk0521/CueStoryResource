@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_03_25",
+    "Title": {
+        "default": "晴れときどきの雨に"
+    },
     "Logs": [
         {
             "index": 1,

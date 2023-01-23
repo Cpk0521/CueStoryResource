@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Card_4040010_3",
+    "Title": {
+        "default": "スタンドバイミー -3-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -130,7 +133,10 @@
                 2
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "月居ほのか",
+                    "鷹取舞花"
+                ]
             },
             "message": {
                 "default": "……あの。"

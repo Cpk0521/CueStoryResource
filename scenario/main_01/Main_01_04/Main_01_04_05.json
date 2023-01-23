@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_04_05",
+    "Title": {
+        "default": "U.F.O -unique flying object-"
+    },
     "Logs": [
         {
             "index": 1,

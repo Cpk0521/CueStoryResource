@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Lesson_30206",
+    "Title": {
+        "default": "C.Q. 聡里編 -3-"
+    },
     "Logs": [
         {
             "index": 1,
@@ -295,7 +298,10 @@
                 15
             ],
             "name": {
-                "default": "2人"
+                "default": [
+                    "宇津木聡里",
+                    "明神凛音"
+                ]
             },
             "message": {
                 "default": "あー！！"

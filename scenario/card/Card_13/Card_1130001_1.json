@@ -1,5 +1,10 @@
 {
     "Txt_Name": "Card_1130001_1",
+    "Title": {
+        "default": "丸山利恵",
+        "zh": "丸山利恵",
+        "eng": "丸山利恵"
+    },
     "Logs": [
         {
             "index": 1,

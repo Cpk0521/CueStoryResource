@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_008_02",
+    "Title": {
+        "default": "Aya's Diary -2-"
+    },
     "Logs": [
         {
             "index": 1,

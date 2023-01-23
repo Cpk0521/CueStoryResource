@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Event_011_06",
+    "Title": {
+        "default": "O.L. -6-"
+    },
     "Logs": [
         {
             "index": 1,

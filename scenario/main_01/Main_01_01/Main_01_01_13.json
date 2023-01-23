@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_01_13",
+    "Title": {
+        "default": "オーディションを受けたい！"
+    },
     "Logs": [
         {
             "index": 1,

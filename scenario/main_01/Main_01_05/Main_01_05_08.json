@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_05_08",
+    "Title": {
+        "default": "大切なこと"
+    },
     "Logs": [
         {
             "index": 1,

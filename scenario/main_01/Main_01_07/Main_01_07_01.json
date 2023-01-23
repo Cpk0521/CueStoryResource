@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_07_01",
+    "Title": {
+        "default": "放課後のビッグディール"
+    },
     "Logs": [
         {
             "index": 1,

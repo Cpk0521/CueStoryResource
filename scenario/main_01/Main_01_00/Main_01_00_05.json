@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_00_05",
+    "Title": {
+        "default": "Mission：声優のタマゴと収録せよ"
+    },
     "Logs": [
         {
             "index": 1,

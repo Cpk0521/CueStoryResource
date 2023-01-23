@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_01_12",
+    "Title": {
+        "default": "そのまま、好きでいて。"
+    },
     "Logs": [
         {
             "index": 1,

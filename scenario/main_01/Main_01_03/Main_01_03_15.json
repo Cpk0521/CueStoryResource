@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_03_15",
+    "Title": {
+        "default": "雨景色回帰線"
+    },
     "Logs": [
         {
             "index": 1,

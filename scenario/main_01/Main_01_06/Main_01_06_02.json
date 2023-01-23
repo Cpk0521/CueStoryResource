@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_06_02",
+    "Title": {
+        "default": "ほんの少しずつの角度"
+    },
     "Logs": [
         {
             "index": 1,

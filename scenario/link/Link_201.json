@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Link_201",
+    "Title": {
+        "default": "妖精のうたげ"
+    },
     "Logs": [
         {
             "index": 1,

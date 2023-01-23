@@ -1,5 +1,8 @@
 {
     "Txt_Name": "Main_01_06_01",
+    "Title": {
+        "default": "いつかのコントレイル"
+    },
     "Logs": [
         {
             "index": 1,
